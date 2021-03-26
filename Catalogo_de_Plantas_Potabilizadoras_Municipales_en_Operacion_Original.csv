@@ -1,0 +1,984 @@
+﻿Estado,Municipio,Localidad,Nombre de la Planta,Capacidad Inst.,Caudal Potabilizado,Proceso Potabilizaci¢n
+AGUASCALIENTES,San Jos‚ de Gracia,San Jos‚ De Gracia,San Jos‚ de Gracia ,18,10,Clarificaci¢n Convencional
+AGUASCALIENTES,Tepezala,Tepezal ,Tepezala,20,10,Clarificaci¢n Convencional
+BAJA CALIFORNIA,Ensenada,Ensenada,Ensenada,250,182.5,Desaladora
+BAJA CALIFORNIA,Ensenada,Ensenada,Presa Emilio L¢pez Zamora,150,40.2,Filtraci¢n Directa
+BAJA CALIFORNIA,Ensenada,Isla de Cedros,Desaladora Isla de Cedros,4.6,0.7,Desaladora
+BAJA CALIFORNIA,Ensenada,Nuevo Centro de Poblaci¢n Padre Kino,Padre Kino,10,1.8,Desaladora
+BAJA CALIFORNIA,Mexicali,Ciudad Guadalupe Victoria (Kil¢metro Cuarenta y Tres),Guadalupe Victoria,250,125.7,Clarificaci¢n Convencional
+BAJA CALIFORNIA,Mexicali,Ciudad Morelos (Cuervos),Ciudad Morelos 1,50,19.07,Remoci¢n de Fierro - Manganeso
+BAJA CALIFORNIA,Mexicali,Ciudad Morelos (Cuervos),Ciudad Morelos 2,50,31.57,Remoci¢n de Fierro - Manganeso
+BAJA CALIFORNIA,Mexicali,Colonia 6 Granjas L zaro C rdenas,Cerro Prieto # 6,5,0.86,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Colonia La Puerta,Col. La Puerta,12,5.8,Clarificaci¢n Convencional
+BAJA CALIFORNIA,Mexicali,Colonia Miguel Alem n,Miguel Alem n,3,2.81,Remoci¢n de Fierro - Manganeso
+BAJA CALIFORNIA,Mexicali,Colonia Silva Sur (Las Playitas),Silva Sur,3,0.61,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Comunidad ind¡gena Cucapa El Mayor,Cucapah El Mayor,5,1.65,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Delta (Estaci¢n Delta),Delta,15,9.2,Otro
+BAJA CALIFORNIA,Mexicali,Delta (Estaci¢n Delta),Ejido Oaxaca,15,4.2,Otro
+BAJA CALIFORNIA,Mexicali,Ejido Benito Ju rez,Benito Ju rez,5,0.4,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Ejido Chiapas 2 (Las Cachoras),Chiapas II,10,6.09,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Ejido Colima 1,Colima,15,3.32,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Ejido Hip¢lito Renter¡a,Hip¢lito Renter¡a,18,5.5,Clarificaci¢n Convencional
+BAJA CALIFORNIA,Mexicali,Ejido Irapuato,Ejido Irapuato,10,4.64,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Ejido Jalapa,Jalapa,10,4.1,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Ejido Jiquilpan,Jiquilpan,17,5.25,Remoci¢n de Fierro - Manganeso
+BAJA CALIFORNIA,Mexicali,Ejido Miguel Hidalgo,Miguel Hidalgo,5,0.57,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Ejido Quer‚taro,Hechicera,3,1.7,Otro
+BAJA CALIFORNIA,Mexicali,Ejido Quer‚taro,Queretaro,5,3,Otro
+BAJA CALIFORNIA,Mexicali,Ejido Quer‚taro,Quer‚taro Nueva,3,2.5,Otro
+BAJA CALIFORNIA,Mexicali,Ejido Rep£blica Mexicana,Rep£blica Mexicana,35,4.56,Remoci¢n de Fierro - Manganeso
+BAJA CALIFORNIA,Mexicali,Ejido Sinaloa (Estaci¢n Kasey),Ej. Sinaloa,10,4.8,Otro
+BAJA CALIFORNIA,Mexicali,Familia Roque Contreras (Colonia Silva),Silva Norte,5,0.55,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Mesa Arenosa de Andrade (Villa Zapata),Villa Zapata,6,0.3,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Mexicali,Planta Potabilizadora No. !,1250,255.5,Clarificaci¢n Convencional
+BAJA CALIFORNIA,Mexicali,Mexicali,Planta Potabilizadora No. 2,2500,1852,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Mexicali,Planta Potabilizadora No. 3,1250,703.97,Clarificaci¢n Convencional
+BAJA CALIFORNIA,Mexicali,Michoac n De Ocampo,Michoac n de Ocampo,20,10,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Nuevo Le¢n,Nuevo Le¢n,50,34.1,Clarificaci¢n Convencional
+BAJA CALIFORNIA,Mexicali,Poblado L zaro C rdenas la 28 (La Veintiocho),Sistema L zaro C rdenas,20,4.05,Filtraci¢n Directa
+BAJA CALIFORNIA,Mexicali,Poblado Paredones,Ciudasd Victoria,40,12.68,Remoci¢n de Fierro - Manganeso
+BAJA CALIFORNIA,Mexicali,Veracruz Uno,Veracruz 1,25,1.62,Filtraci¢n Directa
+BAJA CALIFORNIA,Tecate,Cereso Del Hongo,El Hongo,40,15.1,Filtraci¢n Directa
+BAJA CALIFORNIA,Tecate,Tecate,Cuchum ,125,43.3,Filtraci¢n Directa
+BAJA CALIFORNIA,Tecate,Tecate,Las Auras o La Nopalera,175,172,Filtraci¢n Directa
+BAJA CALIFORNIA,Tijuana,Tijuana,El Florido,5300,4188.1,Filtraci¢n Directa
+BAJA CALIFORNIA,Tijuana,Tijuana,Monte Los Olivos,130,2.9,Remoci¢n de Fierro - Manganeso
+BAJA CALIFORNIA,Tijuana,Tijuana,Presa Rodr¡guez,600,37,Clarificaci¢n Convencional
+BAJA CALIFORNIA,Tijuana,Tijuana,Valle de las Palmas,125,17.2,Filtraci¢n Directa
+BAJA CALIFORNIA SUR,Comond£,La Pur¡sima,La Pur¡sima,0.63,0.63,Osmosis Inversa
+BAJA CALIFORNIA SUR,Comond£,Puerto Alcatraz (Isla Santa Margarita),Puerto Alcatraz II,0.46,0.46,Osmosis Inversa
+BAJA CALIFORNIA SUR,Comond£,Puerto Magdalena (Bah¡a Magdalena),Bah¡a Magdalena,0.4,0.4,Osmosis Inversa
+BAJA CALIFORNIA SUR,Comond£,San Isidro,San Isidro,5,5,Filtraci¢n Directa
+BAJA CALIFORNIA SUR,Comond£,San Jos‚ de Comond£ (Los Comond£),San Jos‚ de Comond£,0.4,0.2,Osmosis Inversa
+BAJA CALIFORNIA SUR,Comond£,San Miguel de Comond£ (Los Comond£),San Miguel de Comond£,0.4,0.2,Osmosis Inversa
+BAJA CALIFORNIA SUR,La Paz,El Centenario,Potabilizadora El Centenario,40,30,Filtraci¢n Directa
+BAJA CALIFORNIA SUR,La Paz,El Triunfo,El Triunfo,0.4,0.4,Osmosis Inversa
+BAJA CALIFORNIA SUR,La Paz,General Juan Dom¡nguez Cota,Gral. Juan Dom¡nguez Cota,0.63,0.63,Osmosis Inversa
+BAJA CALIFORNIA SUR,La Paz,San Antonio,San Antonio,0.4,0.4,Osmosis Inversa
+BAJA CALIFORNIA SUR,La Paz,San Evaristo,San Evaristo,0.2,0.2,Osmosis Inversa
+BAJA CALIFORNIA SUR,La Paz,"SARGENTO, EL",El Sargento-La Ventana,3.4,3.4,Osmosis Inversa
+BAJA CALIFORNIA SUR,Loreto,SAN COSME,San Cosme,0.115,0.115,Osmosis Inversa
+BAJA CALIFORNIA SUR,Los Cabos,Cabo San Lucas,Los Cabos,200,180,Osmosis Inversa
+BAJA CALIFORNIA SUR,Los Cabos,San Jose Viejo,San Lazaro,80,80,Clarificaci¢n Convencional
+BAJA CALIFORNIA SUR,Muleg‚,Campo Delgadito,El Delgadito,0.2,0.2,Osmosis Inversa
+BAJA CALIFORNIA SUR,Muleg‚,El Card¢n,EL CARDON,0.46,0.46,Osmosis Inversa
+BAJA CALIFORNIA SUR,Muleg‚,El D til,El D til,0.2,0.2,Osmosis Inversa
+BAJA CALIFORNIA SUR,Muleg‚,Natividad (Isla Natividad),Isla Natividad,1,1,Osmosis Inversa
+BAJA CALIFORNIA SUR,Muleg‚,Natividad (Isla Natividad),Isla Natividad,1.16,1.16,Osmosis Inversa
+CAMPECHE,Calakmul,Xpujil,Xpujil,5,5,Clarificaci¢n Convencional
+COAHUILA DE ZARAGOZA,Abasolo,Abasolo,ABASOLO,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Abasolo,"RODRIGUEZ, LOS",LOS RODRIGUEZ,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Acu¤a,Ciudad Acu¤a,Ciudad Acu¤a,150,90,Clarificaci¢n Convencional
+COAHUILA DE ZARAGOZA,Acu¤a,Ciudad Acu¤a,La Amistad,500,400,Clarificaci¢n Convencional
+COAHUILA DE ZARAGOZA,Allende,Allende,Allende,125,80,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Arteaga,"PRESA, LA",Ej. La Presa,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Candela,Candela,Candela,0.4,0.4,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,ANTIGUOS MINEROS DEL NORTE (SANTA TECLA),Antiguos Mineros,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,CUATES DE AUSTRALIA,Cuates de Australia,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,El Campizal,El Campizal,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,"ESTANQUE DE PALOMAS (PALOMAS, LAS)",Estanque Palomas,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,La Vega,La Vega,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,Las Morenas,Las Morenas,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,"OSO, EL",El Oso,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,SAN VICENTE,SAN VICENTE ,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,SANTA TERESA DE SOFIA,Santa Teresa de Sof¡a,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,"TANQUE NUEVO (CINCO, EL)",Tanque Nuevo,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,"VENADO, EL",EL VENADO,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Cuatrocienegas,"VICTORIA, LA",LA VICTORIA,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Escobedo,AGUA DE LA HERRADURA,Agua de la Herradura,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Escobedo,ESCOBEDO,Escobedo,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Escobedo,PRIMERO DE MAYO,1ø DE MAYO,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Francisco I. Madero,Batopilas,Batopilas,0.4,0.4,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Francisco I. Madero,CHARCOS DE RISA,Charcos de Risa,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Francisco I. Madero,FLORENCIA,Florencia,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Francisco I. Madero,Francisco I. Madero,Pozo Alamito,55,55,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Francisco I. Madero,Francisco I. Madero,POZO ALMACEN,36,36,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Francisco I. Madero,Francisco I. Madero,Pozo Isabeles,40,40,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Francisco I. Madero,Francisco I. Madero,Pozo Virginias,20,20,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Francisco I. Madero,SAN ESTEBAN DE EGIPTO,Pozo San Esteban de Egipto,47,47,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,General Cepeda,La Hedionda Chica,La Hedionda Chica,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,General Cepeda,La Noria de la Sabina,Noria de la Sabina,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,General Cepeda,MARTE (ESTACION MARTE),Estaci¢n Marte,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,General Cepeda,SAN ANTONIO DEL JARAL (SAN ANTONIO),San Antonio del Jaral,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,General Cepeda,TANQUE SAN VICENTE (SAN VICENTE),Tanque San Vicente ,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Guerrero,SAN VICENTE,San Vicente,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Hidalgo,Hidalgo,Villa Hidalgo,36,36,Clarificaci¢n Convencional
+COAHUILA DE ZARAGOZA,Jim‚nez,Jim‚nez,Jim‚nez,15,15,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Ju rez,Don Mart¡n,Don Mart¡n,1.3,1.3,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Ju rez,Don Mart¡n,Don Mart¡n,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ju rez,El µlamo,EL ALAMO,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ju rez,Ju rez,Ju rez,3.3,3.3,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Ju rez,SANTA RITA,Santa Rita,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Matamoros,HORMIGUERO,Hormiguero,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Matamoros,HORMIGUERO,Hormiguero,0.379,0.379,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Matamoros,Matamoros,Pozo No. 7 Matamoros,47,47,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Monclova,"ORO, EL",El Oro,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Nadadores,NUEVO POBLADO DE SARDINAS,Sardinas,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Nadadores,SAN JOSE DEL AGUILA,San Jos‚ del µguila,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Nava,Nava,Nava,100,80,Clarificaci¢n Convencional
+COAHUILA DE ZARAGOZA,Ocampo,"ALICANTE, EL",El Alicante,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ocampo,Charcos de Figueroa (Falc¢n),Charcos de Figueroa,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ocampo,Chula Vista,Chula Vista,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ocampo,"EUTIMIAS, LAS",Las Eutimias,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ocampo,"ROSITA, LA",LA ROSITA,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ocampo,SAN MIGUEL,San Miguel,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ocampo,SAN VICENTE Y ZACATONAL,San Vicente,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ocampo,"SOCORRO, EL",El Socorro,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ocampo,"UNION Y EL OLAN, LA",La Uni¢n y El Olan,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,BOQUILLAS DEL REFUGIO,Boquillas del Refugio,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,"CANDELARIA, LA",La Candelaria,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,"CECILIA, LA (SANTA CECILIA)",Santa Cecilia,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,CUATRO DE MARZO,4 de Marzo,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,El Porvenir de Abajo,Porvenir de Abajo,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,El Siete de Enero (El Mezquite),SIETE DE ENERO ,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,La Requena (La Requena de F tima),Requena,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,MADERO (ESTACION MADERO),Estaci¢n Madero,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,PIEDRA BLANCA,Piedra Blanca,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,SAN RAFAEL DE LOS MILAGROS,San Rafael de los Milagros,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,"SOL, EL",El  Sol,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,Tal¡a,Talia,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Parras,"VEGA, LA",LA VEGA ,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Piedras Negras,Piedras Negras,Piedras Negras I,500,400,Clarificaci¢n Convencional
+COAHUILA DE ZARAGOZA,Piedras Negras,Piedras Negras,Piedras Negras II,500,400,Clarificaci¢n Convencional
+COAHUILA DE ZARAGOZA,Ramos Arizpe,Alto de Norias,Alto de Norias,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,"AZUFROSA, LA",LA AZUFROSA,0.0175,0.0175,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,"COLORADAS, LAS",LAS COLORADAS ,0.035,0.035,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,"COYOTE, EL",El Coyote,0.0175,0.0175,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,"ESPERANZAS, LAS",Las Esperanzas ,0.0175,0.0175,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,Fraustro,Fraustro,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,HIGUERAS,Higueras,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,La Leona,La Leona,0.2,0.2,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,Las Norias,Las Norias,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,Mes¢n del Norte,Mes¢n del Norte,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,Pared¢n,Pared¢n,0.2,0.2,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,San Ignacio,San Ignacio,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Ramos Arizpe,SANTA MARIA (SANTA MARIA DEL ROSARIO),Santa Mar¡a,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,"CERCADO, EL",Cercado,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,CHAPULA,CHAPULA,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,"COLORADO, EL",Colorado,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,"CUCHILLA, LA",La Cuchilla,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,ENCARNACION DE GUZMAN,ENCARNACION DE GUZMAN,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,GOMEZ FARIAS (NUEVO GOMEZ FARIAS),NUEVO GOMEZ FARIAS,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,HEDIONDA GRANDE,Hedionda Grande,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,JAZMINAL,Jazminal,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,LLANOS DE LA UNION,Llanos de la Uni¢n,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,"MANGAS, LAS",Las Mangas,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,"MEZQUITE, EL",El Mezquite,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,PRESA DE LOS MUCHACHOS,Presa de los Muchachos,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,PUNTA SANTA ELENA,Punta de Santa Elena,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,"RAYADO, EL",EL RAYADO ,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,Saltillo,Benito Juarez,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,SAN FRANCISCO DEL EJIDO,San Francisco del Ejido,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,SAN JUAN DEL RETIRO,SAN JUAN DEL RETIRO,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,SANTA ELENA (ESTACION SANTA ELENA),SANTA ELENA,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,SANTA TERESA DE LOS MUCHACHOS,Sta. Teresa de los Muchachos,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,SEBASTIAN TORRES ALCALA (CERRO GÜERO),San Sebast¡an,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,TANQUE ESCONDIDO,TANQUE ESCONDIDO,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,TINAJUELA,Tinajuela,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Saltillo,"VENTURA, LA",La Ventura 20 de Noviembre,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,San Buenaventura,"GUADALUPE VICTORIA (CERRITO, EL)",Guadalupe Victoria (El Cerrito,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,San Buenaventura,SAN BLAS,San Blas,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,San Buenaventura,SAN FRANCISCO,San Francisco,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,San Buenaventura,SANTA GERTRUDIS,Santa Gertrudis,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,San Pedro,MALA NOCHE Y ARRACADAS,Mala Noche,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,San Pedro,San Pedro,Pozo Jaboncillo,35,35,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,San Pedro,San Pedro,Pozo Leal,28,28,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Sierra Mojada,SALINA DEL REY (DEL REY SUR),Salinas del Rey Sur,0.12,0.12,Osmosis Inversa
+COAHUILA DE ZARAGOZA,Torre¢n,PASO DEL AGUILA,Pozo Paso del Aguila,25,25,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 16 Col. Palmas San Isidro,54,54,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 18R Col. Camilo Torres,36,36,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 30 san Agustin,32,32,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 32R  Jumbo,37,37,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 35 Col. Rovirosa Wade,28,28,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 46 Col. La Compresora,26,26,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 50 Zacatecas,18,18,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 50R  Col. Luis Echeverria,15,15,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 65 Nueva Laguna,12,12,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 67 Lucio Blanco,22,22,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 6R Col. Villas La Merced,25,25,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 75 Senderos,12,12,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 75R Senderos,20,20,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo 79 Fracc. Lagos,30,30,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Torre¢n,Torre¢n,Pozo San Antonio de los Bravo,40,40,Filtraci¢n Directa
+COAHUILA DE ZARAGOZA,Villa Uni¢n,"PORVENIR, EL",EL PORVENIR ,0.12,0.12,Osmosis Inversa
+COLIMA,Colima,Acatit n,ACATITAN,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,Colima,L zaro C rdenas,0.35,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,El Amarradero,Amarradero,0.35,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,El Chanal,EL CHANAL,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,Estapilla,ESTAPILLA,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,Las Guasimas (Las Borregas),Guasimas,0.35,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,Los Asmoles,Los Asmoles,1,0.5,Osmosis Inversa
+COLIMA,Colima,Los Ortices,Los Ortices,1,0.5,Osmosis Inversa
+COLIMA,Colima,Piscila,PISCILA,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,Puerta de µnzar,Puerta de Anzar,0.35,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,Tinajas,TINAJAS,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,VIVIENDA SIN NOMBRE,LO DE VILLA,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Colima,VIVIENDA SIN NOMBRE,LOMA DE ALLENDE,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Comala,AGOSTO,AGOSTO,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Comala,Cofrad¡a de Suchitl n,Cofradia de Suchitlan I,0.116,0.029,Osmosis Inversa
+COLIMA,Comala,Cofrad¡a de Suchitl n,COFRADIA DE SUCHITLAN II,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Comala,Comala,COL LAZARO CARDENAS,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Comala,Comala,Col. Francisco Ramirez Villareal,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Comala,Comala,Colonia Cuauhtemoc,0.116,0.029,Osmosis Inversa
+COLIMA,Comala,Comala,Colonia Los Aguajitos,0.116,0.029,Osmosis Inversa
+COLIMA,Comala,El Remate,El Remate,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Comala,El Remudadero,EL REMUDADERO,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Comala,La Becerrera,La Becerrera,0.33,0.02,Osmosis Inversa
+COLIMA,Cuauht‚moc,Buenavista,BUENAVISTA,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Cuauht‚moc,Palmillas,Palmillas,0.5,0.3,Filtro de Carb¢n Activado
+COLIMA,Ixtlahuac n,La Presa (Barranca del Rebozo),La Presa,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Ixtlahuac n,Las Conchas,Las Conchas,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Ixtlahuac n,Las Trancas,Las Trancas,0.13,0.06,Osmosis Inversa
+COLIMA,Manzanillo,"CHARCO, EL",EL CHARCO,0.1,0.1,Filtro de Carb¢n Activado
+COLIMA,Manzanillo,LLANO DE LA MARINA,LLANO DE LA MARINA,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Minatitl n,El Sauz (Los Sauces),El Sauz,0.12,0.029,Filtro de Carb¢n Activado
+COLIMA,Minatitl n,San Antonio,San Antonio,0.2,0.15,Filtro de Carb¢n Activado
+COLIMA,Tecom n,Caleras,Caleras,0.13,0.06,Osmosis Inversa
+COLIMA,Tecom n,Callejones,Callejones,0.13,0.1,Osmosis Inversa
+COLIMA,Tecom n,Cerro De Ortega,Cerro de Ortega,0.27,0.13,Osmosis Inversa
+COLIMA,Tecom n,Cerro De Ortega,Cerro de Ortega II,0.33,0.17,Osmosis Inversa
+COLIMA,Tecom n,COFRADIA DE HIDALGO (LAGUNA DE ALCUZAHUE),COFRADIA DE HIDALGO,0.33,0.029,Osmosis Inversa
+COLIMA,Tecom n,Cofrad¡a de Morelos,Cofradia de Morelos,0.33,0.15,Osmosis Inversa
+COLIMA,Tecom n,Colonia Bayardo,Bayardo (Nvo. Caxitl n),0.33,0.3,Osmosis Inversa
+COLIMA,Tecom n,Colonia Ladislao Moreno,Ladislao Moreno,0.33,0.15,Osmosis Inversa
+COLIMA,Tecom n,El Saucito,El Saucito,0.2,0.02,Osmosis Inversa
+COLIMA,Tecom n,La Salada,La Salada,0.2,0.15,Osmosis Inversa
+COLIMA,Tecom n,Madrid,Madrid,0.27,0.073,Osmosis Inversa
+COLIMA,Tecom n,Madrid,Madrid I,0.33,0.28,Osmosis Inversa
+COLIMA,Tecom n,San Miguel del Ojo de Agua,San Miguel del Ojo de Agua,0.33,0.23,Osmosis Inversa
+COLIMA,Tecom n,Tecolapa,TECOLAPA,0.33,0.029,Osmosis Inversa
+COLIMA,Tecom n,Tecom n,La estaci¢n,0.116,0.029,Osmosis Inversa
+COLIMA,Tecom n,Tecom n,Ru¡z Cortinez,0.13,0.15,Osmosis Inversa
+COLIMA,Tecom n,Tecom n,SANTA ELENA,0.116,0.029,Osmosis Inversa
+COLIMA,Villa de µlvarez,AGUA DULCE,AGUA DULCE,0.116,0.029,Filtro de Carb¢n Activado
+COLIMA,Villa de µlvarez,Ciudad de Villa de µlvarez,Col. Real de Minas,0.12,0.03,Filtro de Carb¢n Activado
+COLIMA,Villa de µlvarez,Ciudad de Villa de µlvarez,Ramon Serrano,0.35,0.03,Filtro de Carb¢n Activado
+COLIMA,Villa de µlvarez,Ciudad de Villa de µlvarez,Solidaridad,0.35,0.02,Filtro de Carb¢n Activado
+COLIMA,Villa de µlvarez,El Nuevo Naranjal,Nuevo Naranjal,0.35,0.02,Filtro de Carb¢n Activado
+COLIMA,Villa de µlvarez,Juluapan,Juluapan,0.35,0.02,Filtro de Carb¢n Activado
+CHIAPAS,La Concordia,La Concordia,La Concordia,20,18,Clarificaci¢n Convencional
+CHIAPAS,San Fernando,San Fernando,San Fernando,220,80,Clarificaci¢n Convencional
+CHIAPAS,Tapachula,Tapachula de C¢rdova y Ordo¤ez,Tapachula,1000,650,Clarificaci¢n Convencional
+CHIAPAS,Tuxtla Guti‚rrez,Tuxtla Guti‚rrez,Tuxtla Guti‚rrez I,1000,1000,Clarificaci¢n Convencional
+CHIAPAS,Tuxtla Guti‚rrez,Tuxtla Guti‚rrez,Tuxtla Guti‚rrez II,500,360,Clarificaci¢n de Patente
+CHIAPAS,Tuxtla Guti‚rrez,Tuxtla Guti‚rrez,Tuxtla Guti‚rrez III,2000,500,Clarificaci¢n de Patente
+CHIHUAHUA,Bocoyna,Creel,Situriachi,140,70,Ablandamiento
+CHIHUAHUA,Camargo,Santa Rosal¡a de Camargo,Camargo,130,80,Remoci¢n de Fierro - Manganeso
+CHIHUAHUA,Chihuahua,Chihuahua,Chihuahua Norte,120,60,Clarificaci¢n de Patente
+CHIHUAHUA,Hidalgo del Parral,Hidalgo del Parral,Mina la Prieta,43,20.57,Clarificaci¢n de Patente
+CHIHUAHUA,Hidalgo del Parral,Hidalgo del Parral,Parral,245,145,Clarificaci¢n de Patente
+CHIHUAHUA,Ojinaga,Manuel Ojinaga,OJINAGA,12,12,Clarificaci¢n Convencional
+CIUDAD DE MXICO (DISTRITO FEDERAL),Azcapotzalco,Azcapotzalco,Deportivo Ferrer¡a,50,50,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Azcapotzalco,Azcapotzalco,Trabajadores del Hierro,50,50,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Gustavo A. Madero,Gustavo A. Madero,Avenida del Castillo,50,50,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Gustavo A. Madero,Gustavo A. Madero,Jardines del Pedregal 5,40,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Gustavo A. Madero,Gustavo A. Madero,Panamericana,50,50,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztacalco,Iztacalco,Ciudad Deportiva 2,100,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztacalco,Iztacalco,Tlacotal,60,50,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztacalco,Iztacalco,Viga 4,60,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa, Xaltepec,500,458,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Acueducto Sierra Sta. Catarina,250,248,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Agr¡cola Oriental,240,150,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Auxiliar Xotepingo 4C,40,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Carlos L. Gracidas,38,38,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Cerro de La Estrella 2,60,60,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Granjas San Antonio,60,38,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Iztapalapa 1,60,60,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Iztapalapa 2,60,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,La Caldera,700,600,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Pante¢n Civil,180,90,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Pe¤¢n 2,50,50,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Pur¡sima 2,60,50,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Pur¡sima 3 y 7,135,120,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Pur¡sima Iztapalapa 5,60,60,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Pur¡sima Iztapalapa I,60,60,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,San Lorenzo Tezonco,6,6,Otro
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,San Lorenzo Tezonco Nuevo,60,12,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Santa Catarina 10,60,60,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Santa Catarina 11,40,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Santa Catarina 13,60,60,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Santa Catarina 8 y 9,100,85,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Sta. Cruz Meyehualco,120,65,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Tecomitl 2,60,60,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Iztapalapa,Iztapalapa,Viga 2,40,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),La Magdalena Contreras,La Magdalena Contreras,R¡o Magdalena,210,210,Clarificaci¢n Convencional
+CIUDAD DE MXICO (DISTRITO FEDERAL),La Magdalena Contreras,La Magdalena Contreras,R¡o Magdalena 2,200,200,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Tl huac,Tl huac,Acueducto Tl huac-La Caldera,40,40,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Tl huac,Tl huac,Santa Catarina,500,120,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Tl huac,Tl huac,Santa Catarina 4,60,60,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Tl huac,Tl huac,Tecomitl 18,50,23,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Tlalpan,SIN NOMBRE,Selene,120,50,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Venustiano Carranza,Venustiano Carranza,Balbuena 2,40,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Venustiano Carranza,Venustiano Carranza,Pe¤¢n de los Ba¤os,50,40,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Venustiano Carranza,Venustiano Carranza,Vista Alegre,40,40,Osmosis Inversa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Xochimilco,Xochimilco,Cerillos 2,40,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Xochimilco,Xochimilco,Cerillos 3,40,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Xochimilco,Xochimilco,Escudo Nacional 2,40,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Xochimilco,Xochimilco,R-11,40,40,Filtraci¢n Directa
+CIUDAD DE MXICO (DISTRITO FEDERAL),Xochimilco,Xochimilco,S-13,40,40,Adsorci¢n
+CIUDAD DE MXICO (DISTRITO FEDERAL),Xochimilco,Xochimilco,San Luis Nuevo,60,60,Filtraci¢n Directa
+DURANGO,Coneto de Comonfort,Coneto de Comonfort,Coneto de Comonfort II,4,4,Filtraci¢n Directa
+DURANGO,Cuencam‚,Velarde¤a,Velarde¤a,1.5,1.1,Osmosis Inversa
+DURANGO,Durango,Belisario Dom¡nguez,Belisario Dom¡nguez,0.07,0.04,Osmosis Inversa
+DURANGO,Durango,El Arenal (San Jer¢nimo),El Arenal,3.2,2.8,Osmosis Inversa
+DURANGO,Durango,Veinte de Noviembre,27 de noviembre,1.2,1,Osmosis Inversa
+DURANGO,General Sim¢n Bolivar,Dieciocho de Marzo,18 de Marzo,0.4,0.4,Osmosis Inversa
+DURANGO,General Sim¢n Bolivar,Enrique Flores Mag¢n,Colonia Enrique Flores Mag¢n,0.4,0.4,Osmosis Inversa
+DURANGO,General Sim¢n Bolivar,Ignacio Zaragoza,Ignacio Zaragoza,0.379,0.379,Osmosis Inversa
+DURANGO,General Sim¢n Bolivar,ORIENTE AGUANAVAL,Oriente Aguanaval,0.379,0.379,Osmosis Inversa
+DURANGO,General Sim¢n Bolivar,PEDRO CELESTINO NEGRETE,Pedro Celestino Negrete,0.379,0.379,Osmosis Inversa
+DURANGO,General Sim¢n Bolivar,SAN JOSE DE REYES,San Jose de Reyes,0.379,0.379,Osmosis Inversa
+DURANGO,General Sim¢n Bolivar,SAN JOSE DE ZARAGOZA,San Jose de Zaragoza,0.379,0.379,Osmosis Inversa
+DURANGO,General Sim¢n Bolivar,Santa Rosal¡a,Sta. Rosal¡a,0.4,0.4,Osmosis Inversa
+DURANGO,G¢mez Palacio,Esmeralda,La Esmeralda,0.4,0.4,Osmosis Inversa
+DURANGO,G¢mez Palacio,G¢mez Palacio,Cerro de la Pila,113,113,Filtraci¢n Directa
+DURANGO,G¢mez Palacio,G¢mez Palacio,Pozo 12 Zona Industrial,33,33,Filtraci¢n Directa
+DURANGO,G¢mez Palacio,G¢mez Palacio,Pozo 6 El Campestre,36,36,Filtraci¢n Directa
+DURANGO,Hidalgo,Villa Hidalgo,Hidalgo,1.5,1.5,Osmosis Inversa
+DURANGO,Lerdo,Salamanca,Salamanca,0.4,0.4,Osmosis Inversa
+DURANGO,Mapim¡,Bermejillo,Bermejillo,0.4,0.4,Osmosis Inversa
+DURANGO,Mapim¡,Buen d¡a,Buend¡a,0.4,0.4,Osmosis Inversa
+DURANGO,Mapim¡,Ceballos,Ceballos,0.379,0.379,Osmosis Inversa
+DURANGO,Mapim¡,El Diamante,El Diamante,0.4,0.4,Osmosis Inversa
+DURANGO,Mapim¡,Emiliano Zapata (El Derrame),Emiliano Zapata,0.4,0.4,Osmosis Inversa
+DURANGO,Mapim¡,JARALITO,Jaralito,0.4,0.4,Osmosis Inversa
+DURANGO,Mapim¡,Las Mar¡as,Las Mar¡as,0.4,0.4,Osmosis Inversa
+DURANGO,Mapim¡,Mapim¡,Mapimi,0.379,0.379,Osmosis Inversa
+DURANGO,Mapim¡,"MERCED, LA (LAS AGUILAS)",La Merced,0.379,0.379,Osmosis Inversa
+DURANGO,Mapim¡,NUEVA ESTRELLA,La Estrella,0.379,0.379,Osmosis Inversa
+DURANGO,Mapim¡,SAN AGUSTIN,San Agustin,0.379,0.379,Osmosis Inversa
+DURANGO,Mapim¡,Santa Librada,Santa Librada,0.4,0.4,Osmosis Inversa
+DURANGO,Pueblo Nuevo,El Salto,El Salto,100,100,Clarificaci¢n Convencional
+DURANGO,Rodeo,"GOTERA, LA",La Gotera,0.252,0.252,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,Agua Nueva,Agua Nueva,0.4,0.4,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,Benito Ju rez (El Capadero),Benito Ju rez,0.4,0.4,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,CIPRIANO,Cipriano,0.316,0.316,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,El Zorrillo,El Zorrillo,0.316,0.316,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,"ESQUIVELES, LOS",Los Esquiveles,0.379,0.379,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,Guadalupito,Guadalupito,0.4,0.4,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,La Escalera,La Escalera,0.379,0.379,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,La Planilla,La Planilla,0.379,0.379,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,L zaro C rdenas (el Zacate),El Zacate,0.4,0.4,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,Nueva Reforma,Nueva Reforma,0.379,0.379,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,"ROSITA, LA",La Rosita,0.316,0.316,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,San Jos‚ de Barrones,San Jos‚ de Barrones,0.4,0.4,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,San Juan de Guadalupe,Barrio de M‚rida,0.4,0.4,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,San Juan de Guadalupe,San Juan de Guadalupe,0.379,0.379,Osmosis Inversa
+DURANGO,San Juan de Guadalupe,Vicente Guerrero (Siete Zacates),7 Zacatecas,0.4,0.4,Osmosis Inversa
+DURANGO,San Luis del Cordero,San Juan de las Boquillas,San Juan de Boquillas,0.4,0.4,Osmosis Inversa
+DURANGO,San Pedro del Gallo,San Pedro del Gallo,San Pedro del Gallo,0.25,0.25,Osmosis Inversa
+DURANGO,Santiago Papasquiaro,Santiago Papasquiaro,Santiago Papasquiaro,100,100,Ablandamiento
+DURANGO,Tlahualilo,Amapolas,Amapolas,0.4,0.4,Osmosis Inversa
+DURANGO,Tlahualilo,CARTAGENA,28 de Cartagena,0.379,0.379,Osmosis Inversa
+DURANGO,Tlahualilo,Granja Morelos (La Loma Yermo),Granja Morelos,0.379,0.379,Osmosis Inversa
+DURANGO,Tlahualilo,La Sierrita,La Sierrita,0.379,0.379,Osmosis Inversa
+DURANGO,Tlahualilo,NOMBRE DE DIOS,Nombre de Dios,0.379,0.379,Osmosis Inversa
+DURANGO,Tlahualilo,"RENEGADO, EL (LA PERLA)",El Renegado,0.379,0.379,Osmosis Inversa
+GUANAJUATO,Acambaro,El Ranchito,El Ranchito,1,0.6,Filtraci¢n Lenta
+GUANAJUATO,Acambaro,La Merced,La Merced,1,0.6,Filtraci¢n Lenta
+GUANAJUATO,Apaseo El Grande,San Pedro Tenango,San Pedro Tenango,1,1,Ablandamiento
+GUANAJUATO,Comonfort,OJO DE AGUA DEL POTRERO (OJO DE AGUA),OJO DE AGUA D POTRERO ,1.5,1.5,Osmosis Inversa
+GUANAJUATO,Cuer maro,Cerrito de Agua Caliente,Cerrito de Agua Caliente,1,0.6,Osmosis Inversa
+GUANAJUATO,Cuer maro,San Gregorio,San Gregorio,1,0.7,Osmosis Inversa
+GUANAJUATO,Guanajuato,Guanajuato,Los Filtros,150,110,Clarificaci¢n Convencional
+GUANAJUATO,Guanajuato,Guanajuato,Presa de Mata,42,35,Clarificaci¢n Convencional
+GUANAJUATO,Guanajuato,MINERAL DE LA LUZ (LA LUZ),Mineral de la luz,6,6,Clarificaci¢n Convencional
+GUANAJUATO,Guanajuato,PUERTO DE SANTA ROSA,Puerto de Santa Rosa,6.5,6.5,Clarificaci¢n Convencional
+GUANAJUATO,Irapuato,Aldama,ALDAMA,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,Ca¤ada de la Muerte,Ca¤ada de la Muerte,1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,CARRIZAL GRANDE,CARRIZAL GRANDE,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,COMEDERITO,COMEDERITO,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,GUADALUPE DE PASO BLANCO (EL RANCHITO),GUADALUPE PASO BLANCO,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,Hacienda de M rquez (M rquez),Hacienda de M rquez,1,0.05,Osmosis Inversa
+GUANAJUATO,Irapuato,Irapuato,JAPAMI,0.12,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,Irapuato,POZO 38,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,Irapuato,POZO 81,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,Irapuato,POZO 86,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,La Calera,La Calera,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,"LOMA, LA",LOMA BONITA,0.12,0.05,Osmosis Inversa
+GUANAJUATO,Irapuato,"MALVAS, LAS (EL RESBALON)",MALVAS DE ARGOLLA 2,0.12,0.06,Osmosis Inversa
+GUANAJUATO,Irapuato,"MALVAS, LAS (EL RESBALON)",MALVAS DE ARRGOLLA ,0.11,0.11,Osmosis Inversa
+GUANAJUATO,Irapuato,"MALVAS, LAS (EL RESBALON)",MALVAS REVOLUCION,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,OJO DE AGUA DE BERMUDEZ,OJO DE AGUA DE BERMUDEZ,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,PASO BLANCO,PASO BLANCO,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,PEÑUELAS,PE¥UELAS,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,PURISIMA DE COVARRUBIAS,PURISIMA DEL PROGRESO,0.12,0.05,Osmosis Inversa
+GUANAJUATO,Irapuato,PURISIMA DE TEMASCATIO DE ARRIBA,PURISIMA DE TEMASCATIO DE ARRB,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,RIVERA DE GUADALUPE,RIVERA DE GUADALUPE,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,SAN IGNACIO DE RIVERA (OJO DE AGUA),SAN IGNACIO RIVERA,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,SAN JOSE DE CRUCES,SAN JOSE CRUCES,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,SAN NICOLAS TEMASCATIO,NICOLAS TEMASCATIO,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,SANTA BARBARA,SANTA BARBARA,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,SERRANO,SERRANO,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Irapuato,"TRINIDAD DE TEMASCATIO, LA",TRINIDAD TEMASCATÖO,0.1,0.1,Osmosis Inversa
+GUANAJUATO,Le¢n,Le¢n de los Aldama,Le¢n,160,115,Clarificaci¢n Convencional
+GUANAJUATO,Manuel Doblado,Ciudad Manuel Doblado,Calzada del Tepoz n,1,0.6,Osmosis Inversa
+GUANAJUATO,Manuel Doblado,Ciudad Manuel Doblado,La Playa,1,0.6,Filtraci¢n Lenta
+GUANAJUATO,Manuel Doblado,Ciudad Manuel Doblado,Puerto de la Llave,1,0.6,Filtraci¢n Lenta
+GUANAJUATO,Manuel Doblado,La Calzada de la Merced,Calzada de la Merced,2.18,2.18,Ablandamiento
+GUANAJUATO,P‚njamo,ESTACION PENJAMO,La Estaci¢n ,5000,5000,Osmosis Inversa
+GUANAJUATO,Pueblo Nuevo,Guadalupe del Monte (La Lupita),Guadalupe del Monte,1,0.6,Osmosis Inversa
+GUANAJUATO,San Felipe,LAGUNA DE GUADALUPE,LAGUNA DE GUADALUPE,0.2,0.2,Osmosis Inversa
+GUANAJUATO,San Felipe,PROVIDENCIA DE GPE. (ESTANCIA DE PROVIDENCIA),PROVIDENCIA,0.06,0.06,Osmosis Inversa
+GUANAJUATO,San Luis de la Paz,La Cruz de Guerrero,La Cruz de Guerrero,1,0.6,Osmosis Inversa
+GUANAJUATO,San Luis de la Paz,La Escondidita (La Escondida),La Escondidita,1,0.6,Osmosis Inversa
+GUANAJUATO,San Luis de la Paz,Maravilla l,Maravilla l,1,0.6,Osmosis Inversa
+GUANAJUATO,San Luis de la Paz,San Luis de la Paz,Paso de Vaqueros,250,130,Filtraci¢n Directa
+GUANAJUATO,San Luis de la Paz,Terreros de la Concepci¢n (El Terrero),Los Terreros de la Concepci¢n,1,0.6,Osmosis Inversa
+GUANAJUATO,Santa Cruz de Juventino Rosas,San Diego de los Dolores,SAN DIEGO DE LOS DOLORES,0.12,0.06,Osmosis Inversa
+GUANAJUATO,Santa Cruz de Juventino Rosas,San Diego de los Dolores,San Diego de los Dolores,1.9,1.9,Ablandamiento
+GUANAJUATO,Uriangato,El Derramadero,El Derramadero,2.88,2.88,Ablandamiento
+GUANAJUATO,Valle de Santiago,Santa B rbara,Santa B rbara y Noria de Mosqu‚,1,0.6,Osmosis Inversa
+GUERRERO,Acapulco de Ju rez,Acapulco de Ju rez,Acapulco (Cayaco),2000,1900,Clarificaci¢n Convencional
+GUERRERO,Acapulco de Ju rez,Acapulco de Ju rez,Pedregoso,40,40,Filtraci¢n Directa
+GUERRERO,Arcelia,Arcelia,Arcelia,70,65,Clarificaci¢n Convencional
+GUERRERO,Benito Ju rez,San Jer¢nimo De Ju rez,San Jer¢nimo,50,25,Filtro de Carb¢n Activado
+GUERRERO,Buenavista de Cuellar,Buenavista De Cuellar,Buenavista de Cuellar,70,40,Clarificaci¢n Convencional
+GUERRERO,Iguala de la Independencia,Iguala de la Independencia,Iguala,400,300,Clarificaci¢n Convencional
+GUERRERO,Olinal ,Olinal ,Olinal ,35,35,Clarificaci¢n Convencional
+GUERRERO,Ometepec,Ometepec,Ometepec,100,100,Clarificaci¢n Convencional
+GUERRERO,Ometepec,Ometepec,Ometepec,50,45,Filtraci¢n Directa
+GUERRERO,Pilcaya,Pilcaya,Pilcaya,20,18,Clarificaci¢n Convencional
+GUERRERO,Pungarabato,Ciudad Altamirano,Cd. Altamirano,420,400,Clarificaci¢n Convencional
+GUERRERO,Taxco de Alarc¢n,Taxco de Alarc¢n,Taxco,120,100,Clarificaci¢n Convencional
+GUERRERO,Taxco de Alarc¢n,Taxco de Alarc¢n,Taxco de Alarc¢n,220,220,Clarificaci¢n Convencional
+GUERRERO,Teloloapan,Teloloapan,Teloloapan,80,40,Filtraci¢n Lenta
+GUERRERO,Tixtla de Guerrero,Tixtla de Guerrero,Tixtla,40,25,Clarificaci¢n de Patente
+GUERRERO,Zitlala,Zitlala,Zitlala,8,8,Clarificaci¢n Convencional
+HIDALGO,Atitalaquia,Atitalaquia,Pozo La Ranfla,12,12,Otro
+HIDALGO,Atitalaquia,Atitalaquia,Pozo Villas Atitalaquia,5,5,Otro
+HIDALGO,Atitalaquia,Cardonal,Pozo Cardonal,18,18,Otro
+HIDALGO,Atitalaquia,Colonia Empleados Refiner¡a,Pozo 18 de Marzo,12,12,Filtro de Carb¢n Activado
+HIDALGO,Atotonilco de Tula,La Ca¤ada,Pozo La Ca¤ada,2,2,Clarificaci¢n de Patente
+HIDALGO,Mineral del Chico,La Estanzuela,El Bordo,50,50,Clarificaci¢n Convencional
+HIDALGO,Mineral del Monte,Mineral Del Monte,La Dificultad,50,50,Remoci¢n de Fierro - Manganeso
+HIDALGO,Pachuca de Soto,Pachuca de Soto,San Juan Pachuca,120,100,Osmosis Inversa
+HIDALGO,Progreso de Obregon,Progreso,Pozo Progreso,55,55,Otro
+HIDALGO,Tula de Allende,Montecillos,Pozo Montecillos,12,12,Clarificaci¢n de Patente
+HIDALGO,Tula de Allende,San Miguel Vindho,Pozo San Miguel Vindho,8,8,Clarificaci¢n de Patente
+HIDALGO,Tula de Allende,Tula de Allende,La Amistad,6,6,Clarificaci¢n de Patente
+HIDALGO,Tula de Allende,Tula de Allende,Pozo Iturbe,40,40,Adsorci¢n
+HIDALGO,Zimapan,Benito Ju rez (Detzani),Pozo Detzani,5,5,Adsorci¢n
+HIDALGO,Zimapan,"MUHI, EL",Llano Norte (EL Muhi),22,19,Otro
+HIDALGO,Zimapan,Zimapan,Tanque Central,16,13,Otro
+JALISCO,Arandas,"SAUZ DE CAJIGAL, EL",Sauz de Cajigal,2,2,Clarificaci¢n Convencional
+JALISCO,Ca¤adas de Obreg¢n,Ca¤adas de Obreg¢n,Villa Obreg¢n,12,12,Clarificaci¢n Convencional
+JALISCO,Cuqu¡o,Cuqu¡o,Cuqu¡o,30,30,Clarificaci¢n Convencional
+JALISCO,Guadalajara,Guadalajara,Guadalajara (Toluquilla),1200,1200,Remoci¢n de Fierro - Manganeso
+JALISCO,Guadalajara,Guadalajara,Guadalajara No. 1 (Miravalle),9000,9000,Clarificaci¢n Convencional
+JALISCO,Hostotipaquillo,MESA DE FLORES,Mesa de las flores,2,2,Clarificaci¢n Convencional
+JALISCO,Huej£car,SAN JOSE DE LOS MARQUEZ,San Jos‚ de los Marquez,2,2,Clarificaci¢n Convencional
+JALISCO,Ixtlahuacan del R¡o,Ixtlahuacan Del R¡o,Ixtlahuacan del R¡o,20,20,Clarificaci¢n Convencional
+JALISCO,Ixtlahuacan del R¡o,San Antonio de los V zquez,San Antonio de los V zquez,25,25,Clarificaci¢n Convencional
+JALISCO,Ojuelos Jalisco,Matancillas,Matanzas,3,3,Osmosis Inversa
+JALISCO,Pihuamo,Pihuamo,Pihuamo Arroyo La Suiza,25,25,Clarificaci¢n Convencional
+JALISCO,Puerto Vallarta,HORIZONTE AZUL,Mojoneras,300,300,Clarificaci¢n Convencional
+JALISCO,Puerto Vallarta,Las Palmas De Arriba,Las Palmas,50,50,Clarificaci¢n Convencional
+JALISCO,Puerto Vallarta,Puerto Vallarta,Mojoneras,600,480,Clarificaci¢n Convencional
+JALISCO,Puerto Vallarta,Puerto Vallarta,"Puerto Vallarta ""R¡o Mascota""",300,300,Clarificaci¢n Convencional
+JALISCO,Puerto Vallarta,Puerto Vallarta,"Puerto Vallarta ""San Luis""",100,60,Clarificaci¢n Convencional
+JALISCO,Puerto Vallarta,Puerto Vallarta,Puerto Vallarta I (Mismaloya),22,22,Clarificaci¢n Convencional
+JALISCO,Puerto Vallarta,Puerto Vallarta,Puerto Vallarta II (R¡o Cuale),150,150,Clarificaci¢n Convencional
+JALISCO,Puerto Vallarta,Puerto Vallarta,San Luis,40,40,Clarificaci¢n Convencional
+JALISCO,San Juan de los Lagos,San Juan de los Lagos,San Juan de los Lagos,40,40,Clarificaci¢n Convencional
+JALISCO,San Mart¡n de Hidalgo,San Jer¢nimo,San Jer¢nimo,2,2,Clarificaci¢n Convencional
+JALISCO,San Mart¡n de Hidalgo,San Mart¡n De Hidalgo,San Mart¡n de Hidalgo,10,10,Clarificaci¢n Convencional
+JALISCO,Tala,Tala,Tala,30,30,Clarificaci¢n Convencional
+JALISCO,Teocaltiche,"TABLERO, EL",EL TABLERO/ LA TRINIDAD,2,2,Osmosis Inversa
+JALISCO,Tepatitl n de Morelos,Capilla De Guadalupe,ACUEDUCTO EL SALTO TEPATITLAN,300,230,Clarificaci¢n Convencional
+JALISCO,Tepatitl n de Morelos,Tepatitl n de Morelos,El Salto,230,230,Clarificaci¢n Convencional
+JALISCO,Tepatitl n de Morelos,Tepatitl n de Morelos,Tepatitl n,100,80,Clarificaci¢n Convencional
+JALISCO,Tepatitl n de Morelos,Tepatitl n de Morelos,Viveros,80,80,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,COFRADIA DE LA LUZ,Cofrad¡a de la luz,16,16,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,San Sebastian El Grande,RESIDENCIAL SAN PABLO,12,12,Osmosis Inversa
+JALISCO,Tlajomulco de Zu¤iga,"Tijera, La",LA TIJERA,20,20,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,"Tijera, La",VILLAS DE LA TIJERA,4,4,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,ALTUS BOSQUES,5,5,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,CONCHA RESIDENCIAL,3,3,Otro
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,FRAC. LAS LUCES,10,10,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,FRAC. REAL DEL SOL,5,5,Otro
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,"FRACCIONAMIENTO ""LA CIBELES""",10,10,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,"FRACCIONAMIENTO ""SORRENTO""",15,15,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,FRACCIONAMIENTO VILLA ALTA,10,10,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,Haciendas San Miguel,36,36,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,NUEVA GALICIA,10,10,Otro
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,Sendero de Mnteverde,5,5,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,Tlajomulco de Zu¤iga,Tulipanes de Amapas,10,10,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,TRES GALLOS,TRES GALLOS,2,2,Clarificaci¢n Convencional
+JALISCO,Tlajomulco de Zu¤iga,Zapote Del Valle,Zapote del Valle,800,600,Clarificaci¢n Convencional
+JALISCO,Tlaquepaque,Tlaquepaque,Guadalajara II (Las Huertas),2000,2000,Clarificaci¢n Convencional
+JALISCO,Tonal ,Tonal ,Guadalajara III (San Gaspar),3000,3000,Clarificaci¢n Convencional
+JALISCO,Yahualica de Gonz lez Gallo,Yahualica de Gonz lez Gallo,Yahualica,30,30,Clarificaci¢n Convencional
+MEXICO,Almoloya del R¡o,Almoloya del R¡o,Almoloya del R¡o,580,450,Filtraci¢n Directa
+MEXICO,Atizap n de Zaragoza,Viejo Mad¡n,Mad¡n,600,450,Clarificaci¢n Convencional
+MEXICO,Chimalhuac n,Chimalhuac n,Chimalhuac n,20,20,Adsorci¢n
+MEXICO,Chimalhuac n,Chimalhuac n,Ramal Pe¤on-Texcoco,630,630,Remoci¢n de Fierro - Manganeso
+MEXICO,El Oro,El Oro De Hidalgo,"El Oro, Presa La Victoria ",20,15,Clarificaci¢n Convencional
+MEXICO,Ixtapan de la sal,Ixtapan de la Sal,Ixtapan de la Sal,100,70,Clarificaci¢n de Patente
+MEXICO,Ixtapan de la sal,Llano de la Uni¢n,Llano de la Uni¢n,4,2,Clarificaci¢n Convencional
+MEXICO,La Paz,Los Reyes Acaquilpan,Planta Pot. La Escuela,50,50,Otro
+MEXICO,La Paz,Los Reyes Acaquilpan,Planta Pot. La Puerta,100,60,Clarificaci¢n Convencional
+MEXICO,La Paz,Los Reyes Acaquilpan,Planta Pot. Los Puentes,70,60,Clarificaci¢n Convencional
+MEXICO,La Paz,Los Reyes Acaquilpan,Planta Potabilizadora Ancon,80,60,Clarificaci¢n Convencional
+MEXICO,Tenancingo,Tenancingo de Degollado,"Tenancingo, Pozo La Alameda",40,40,Remoci¢n de Fierro - Manganeso
+MEXICO,Texcaltitl n,Texcaltitl n,Potabiliadora de Texcaltitlan,7,5,Clarificaci¢n Convencional
+MEXICO,Tonatico,Tonatico,"Tonatico, Cabecera",20,15,Clarificaci¢n Convencional
+MEXICO,Villa de Allende,Berros (Los Berros),Los Berros,24000,15000,Clarificaci¢n Convencional
+MICHOACAN DE OCAMPO,L zaro C rdenas,Ciudad L zaro C rdenas,L zaro C rdenas I (Ing. Agust¡n Garc¡a Arias),420,380,Clarificaci¢n Convencional
+MICHOACAN DE OCAMPO,Morelia,Morelia,Canal San Miguel,120,80,Filtraci¢n Directa
+MICHOACAN DE OCAMPO,Morelia,Morelia,Mintzita,1500,1000,Clarificaci¢n Convencional
+MICHOACAN DE OCAMPO,Morelia,Morelia,Santa Mar¡a,650,600,Clarificaci¢n Convencional
+MORELOS,Ayala,Tenextepango,Tenextepango,30,30,Otro
+MORELOS,Ocuituco,Ocuituco,Patr¢n,5,5,Clarificaci¢n Convencional
+MORELOS,Tlaltizap n,Tlaltizap n,El Salto,26,26,Clarificaci¢n Convencional
+MORELOS,Xochitepec,Alpuyeca,Ciudad Salud,5.1,5.1,Ablandamiento
+NUEVO LEON,Allende,Ciudad de Allende,Allende,100,75.15,Clarificaci¢n Convencional
+NUEVO LEON,An huac,An huac,An huac,100,76.46,Clarificaci¢n Convencional
+NUEVO LEON,An huac,Colombia,Colombia,20,13.55,Clarificaci¢n Convencional
+NUEVO LEON,Cadereyta Jim‚nez,Cadereyta,Cadereyta,300,216.75,Clarificaci¢n Convencional
+NUEVO LEON,China,China,Ac. China - los Aldamas,220,91.85,Filtraci¢n Directa
+NUEVO LEON,China,La Barreta (La Barreta dos),La Barreta,5,1.94,Osmosis Inversa
+NUEVO LEON,Ci‚nega de Flores,Ci‚nega De Flores,Ac. Cerritos No. 1,50,34.94,Clarificaci¢n Convencional
+NUEVO LEON,Doctor Arroyo,Los Medina,Los Medina,12,8.2,Osmosis Inversa
+NUEVO LEON,Ju rez,San Roque,San Roque,12000,8379,Filtraci¢n Directa
+NUEVO LEON,Linares,Linares,Linares,114,69.33,Clarificaci¢n Convencional
+NUEVO LEON,Los Ramones,Los Ramones,Los Ramones,25,9.2,Filtraci¢n Lenta
+NUEVO LEON,Santiago,Santiago,La Boca,2400,589,Clarificaci¢n Convencional
+OAXACA,Oaxaca de Ju rez,Oaxaca de Ju rez,Fort¡n I (P. Vieja),240,122,Remoci¢n de Fierro - Manganeso
+OAXACA,Oaxaca de Ju rez,Oaxaca de Ju rez,San Antonio de la Cal,350,20,Clarificaci¢n Convencional
+OAXACA,Oaxaca de Ju rez,Oaxaca de Ju rez,San Felipe del Agua,50,4,Clarificaci¢n Convencional
+OAXACA,San Juan Juquila Mixes,San Juan Juquila Mixes,Juquila,1.3,1.3,Clarificaci¢n Convencional
+PUEBLA,Cuautlancingo,San Juan Cuautlancingo,PLANTA PRETRATAMIENTO POZO JIN,55,41,Filtraci¢n Directa
+PUEBLA,Puebla,Heroica Puebla de Zaragoza,Puebla (San Felipe),360,182.5,Osmosis Inversa
+PUEBLA,Puebla,Heroica Puebla de Zaragoza,Quetzalc¢atl,180,80.5,Ablandamiento
+PUEBLA,San Andres Cholula,San Andres Cholula,Parque Lineal ,90,60,Osmosis Inversa
+PUEBLA,Zacatl n,Santa Martha,Zacatl n,100,84,Clarificaci¢n Convencional
+QUERETARO DE ARTEAGA,Cadereyta de Montes,Cadereyta,Acueducto 2,1500,1258,Clarificaci¢n Convencional
+QUERETARO DE ARTEAGA,Jalpan de Serra,Jalpan,Jalpan,50,50,Clarificaci¢n de Patente
+QUERETARO DE ARTEAGA,Jalpan de Serra,Tancoyol,Tancoyol,22,20,Clarificaci¢n de Patente
+QUERETARO DE ARTEAGA,Pinal de Amoles,El Chuveje,Chuveje,25,25,Clarificaci¢n de Patente
+QUERETARO DE ARTEAGA,San Joaqu¡n,San Joaqu¡n,Aguacatillo ,4.5,4.5,Clarificaci¢n de Patente
+SAN LUIS POTOSI,Ciudad valles,Ciudad valles,Ciudad Valles,600,400,Clarificaci¢n Convencional
+SAN LUIS POTOSI,bano,bano,bano Chapacao I (Pujalcoy),10,9,Clarificaci¢n de Patente
+SAN LUIS POTOSI,Matehuala,Los Mendoza,Los Mendoza,4.15,4.15,Osmosis Inversa
+SAN LUIS POTOSI,San Luis Potos¡,San Luis Potos¡,Realito,1000,630,Clarificaci¢n Convencional
+SAN LUIS POTOSI,San Luis Potos¡,San Luis Potos¡,San Luis Potos¡ I (Filtros),480,250,Clarificaci¢n Convencional
+SAN LUIS POTOSI,San Luis Potos¡,San Luis Potos¡,San Luis Potos¡ II (Lomas),40,25,Clarificaci¢n Convencional
+SAN LUIS POTOSI,Tamuin,Tamuin,El Puente,20,20,Filtraci¢n Directa
+SAN LUIS POTOSI,Tamuin,Tamuin,La Ci‚nega,18.5,18.5,Filtraci¢n Directa
+SAN LUIS POTOSI,Tierra Nueva,Tierra Nueva,Tierra Nueva,28,28,Ablandamiento
+SAN LUIS POTOSI,Villa Hidalgo,El Coyote,El Coyote,0.5,0.5,Filtraci¢n Directa
+SINALOA,Ahome,Ahome, Ahome,100,55,Clarificaci¢n de Patente
+SINALOA,Ahome,Alfonso G. Calder¢n (Poblado Siete),Poblado No. 7,50,30,Clarificaci¢n de Patente
+SINALOA,Ahome,Bachomobampo n£mero dos,Bachomobampo N£mero Dos,20,14,Clarificaci¢n de Patente
+SINALOA,Ahome,Bachomobampo n£mero uno,Bachomobampo N£mero Uno,20,13,Clarificaci¢n de Patente
+SINALOA,Ahome,Benito Ju rez,Benito Ju rez,50,15,Clarificaci¢n de Patente
+SINALOA,Ahome,Cerro Cabez¢n (El Chorrito),Cerro Cabez¢n,20,12,Clarificaci¢n de Patente
+SINALOA,Ahome,Cinco de Mayo,Ejido 5 de Mayo,25,9,Clarificaci¢n de Patente
+SINALOA,Ahome,Cobayme,Cobayme,5,5,Clarificaci¢n de Patente
+SINALOA,Ahome,Compuertas,Compuertas,70,19,Clarificaci¢n de Patente
+SINALOA,Ahome,Dolores Hidalgo,Ejido Dolores Hidalgo,20,16,Clarificaci¢n de Patente
+SINALOA,Ahome,El Colorado,El Colorado,30,12,Clarificaci¢n de Patente
+SINALOA,Ahome,El Refugio,El Refugio,25,12,Clarificaci¢n de Patente
+SINALOA,Ahome,Felipe µngeles,Goros No. 2,25,19,Clarificaci¢n Convencional
+SINALOA,Ahome,Flor Azul,Flor Azul,25,17,Clarificaci¢n de Patente
+SINALOA,Ahome,Guillermo Ch vez Talamantes,Ch vez Talamantes,50,11,Clarificaci¢n de Patente
+SINALOA,Ahome,Gustavo D¡az Ordaz (El Carrizo),Villa G. D¡az Ordaz II,200,189,Clarificaci¢n de Patente
+SINALOA,Ahome,Heriberto Valdez Romero (El Guayabo),El Guayabo,60,51,Clarificaci¢n de Patente
+SINALOA,Ahome,Higuera De Zaragoza,Higuera de Zaragoza,80,56,Clarificaci¢n de Patente
+SINALOA,Ahome,Huacaporito,Guacaporito,25,14,Clarificaci¢n de Patente
+SINALOA,Ahome,Jitzamuri,Jitzamuri,30,30,Clarificaci¢n Convencional
+SINALOA,Ahome,La Arrocera,La Arrocera,20,10,Clarificaci¢n de Patente
+SINALOA,Ahome,Las Grullas Margen Derecha,Grullas Margen Derecha,20,20,Clarificaci¢n de Patente
+SINALOA,Ahome,Las Grullas Margen Izquierda,Grullas Margen Izquierda,40,40,Clarificaci¢n de Patente
+SINALOA,Ahome,Los Mochis,Ejido Emiliano Zapata,30,30,Clarificaci¢n de Patente
+SINALOA,Ahome,Los Mochis,Los Mochis I - Hern ndez Ter n,800,660,Clarificaci¢n Convencional
+SINALOA,Ahome,Los Mochis,Los Mochis II,300,300,Clarificaci¢n de Patente
+SINALOA,Ahome,Los Mochis,Los Mochis III,400,400,Clarificaci¢n Convencional
+SINALOA,Ahome,Los Mochis,Los Mochis IV,200,200,Clarificaci¢n de Patente
+SINALOA,Ahome,Los Mochis,Santa Blanca,2,2,Clarificaci¢n de Patente
+SINALOA,Ahome,Matacahui (El Campito),Ejido Matacahui,5,4,Clarificaci¢n de Patente
+SINALOA,Ahome,Mochis (Ejido Mochis),Ejido Mochis,60,22,Clarificaci¢n de Patente
+SINALOA,Ahome,Nuevo San Miguel,Nuevo San Miguel,25,20,Clarificaci¢n Convencional
+SINALOA,Ahome,Ohuira,Ohuira,25,8,Clarificaci¢n de Patente
+SINALOA,Ahome,Paredones,Paredones,10,7,Clarificaci¢n de Patente
+SINALOA,Ahome,Poblado N£mero Seis (Los Natoches),Los Natoches),25,6,Clarificaci¢n Convencional
+SINALOA,Ahome,Primero De Mayo,Primero de Mayo,50,16,Clarificaci¢n de Patente
+SINALOA,Ahome,Pueblo Nuevo Luis Echeverr¡a,Ejido Luis Echeverr¡a,25,15,Clarificaci¢n de Patente
+SINALOA,Ahome,Ricardo Flores Mag¢n,Ejido R. Flores Mag¢n,30,30,Clarificaci¢n de Patente
+SINALOA,Ahome,San Jos‚ de Ahome,San Jos‚ de Ahome,50,17,Clarificaci¢n de Patente
+SINALOA,Ahome,San Miguel ÿZapotitl n,San Miguel Zapotitl n,70,47,Clarificaci¢n de Patente
+SINALOA,Ahome,Topolobampo,F‚lix Barreiro,100,60,Clarificaci¢n de Patente
+SINALOA,Ahome,Topolobampo,Topolobampo II,20,20,Clarificaci¢n de Patente
+SINALOA,Ahome,Vallejo (Porvenir Vallejo),Ejido Vallejo,20,11,Clarificaci¢n de Patente
+SINALOA,Ahome,Zapotillo Uno (Zapotillo Viejo),Zapotillo N§ 1,25,10,Clarificaci¢n de Patente
+SINALOA,Angostura,Campo El General,Campo El General,3.5,3.5,Clarificaci¢n de Patente
+SINALOA,Angostura,Colonia Agr¡cola M‚xico (Palmitas),Palmitas ,50,35,Clarificaci¢n de Patente
+SINALOA,Angostura,Colonia Agr¡cola Sinaloa,Colonia Sinaloa,5,5,Clarificaci¢n de Patente
+SINALOA,Angostura,Colonia Independencia (Chinitos),Colonia Independencia,60,50,Clarificaci¢n Convencional
+SINALOA,Angostura,Damaso C rdenas,Damaso C rdenas,20,20,Clarificaci¢n Convencional
+SINALOA,Angostura,El Nuevo Ostional,El Nuevo ostional II,25,25,Clarificaci¢n de Patente
+SINALOA,Angostura,Estaci¢n Acatita,Estaci n Acatita,5,5,Clarificaci¢n de Patente
+SINALOA,Angostura,La Reforma,La Reforma I,20,20,Clarificaci¢n de Patente
+SINALOA,Angostura,La Reforma,La Reforma II,20,20,Clarificaci¢n de Patente
+SINALOA,Angostura,La Reforma,La Reforma III,30,30,Clarificaci¢n de Patente
+SINALOA,Angostura,Leopoldo S nchez Celis (El Gato de Lara),Gato de Lara,20,20,Clarificaci¢n de Patente
+SINALOA,Choix,Los Picachos,Picachos,8,6,Clarificaci¢n de Patente
+SINALOA,Culiac n,Adolfo L¢pez Mateos (El Tamarindo),Adolfo L¢pez Mateos - Platanera,40,30,Remoci¢n de Fierro - Manganeso
+SINALOA,Culiac n,Arkadia 1 (El Siete),Arcadia,2,2,Clarificaci¢n de Patente
+SINALOA,Culiac n,Campo Arbaco,Arbaco,2,2,Clarificaci¢n de Patente
+SINALOA,Culiac n,Campo Cinco y Medio,Cinco y Medio y Seis,5,5,Clarificaci¢n de Patente
+SINALOA,Culiac n,Costa Rica,Costa Rica I,70,70,Clarificaci¢n de Patente
+SINALOA,Culiac n,Costa Rica,Costa Rica II,40,40,Clarificaci¢n de Patente
+SINALOA,Culiac n,Costa Rica,Costa Rica III,100,100,Clarificaci¢n de Patente
+SINALOA,Culiac n,Culiac n Rosales,Culiac n Country I,150,150,Clarificaci¢n de Patente
+SINALOA,Culiac n,Culiac n Rosales,Culiac n Country II,100,100,Clarificaci¢n de Patente
+SINALOA,Culiac n,Culiac n Rosales,Culiac n Isleta I,225,225,Clarificaci¢n de Patente
+SINALOA,Culiac n,Culiac n Rosales,Culiac n Isleta II,150,150,Clarificaci¢n Convencional
+SINALOA,Culiac n,Culiac n Rosales,Culiac n Isleta III,100,90,Clarificaci¢n de Patente
+SINALOA,Culiac n,Culiac n Rosales,Culiac n Isleta IV,100,85,Clarificaci¢n de Patente
+SINALOA,Culiac n,Culiac n Rosales,Culiac n Isleta IV - A1,100,85,Clarificaci¢n de Patente
+SINALOA,Culiac n,Culiac n Rosales,Culiac n Juan de Dios B tiz,300,233,Clarificaci¢n Convencional
+SINALOA,Culiac n,Culiac n Rosales,Culiac n Juan de Dios B tiz I,500,426,Clarificaci¢n Convencional
+SINALOA,Culiac n,Culiac n Rosales,Culiac n La Primavera,1000,897,Clarificaci¢n Convencional
+SINALOA,Culiac n,Doroteo Arango,Doroteo Arango,13,13,Clarificaci¢n Convencional
+SINALOA,Culiac n,Ejido Can n,Ejido Can n,10,10,Clarificaci¢n de Patente
+SINALOA,Culiac n,Ejido Comanito,Comanito,15,13,Clarificaci¢n Convencional
+SINALOA,Culiac n,Ejido el µlamo,El µlamo,5,5,Clarificaci¢n de Patente
+SINALOA,Culiac n,Ejido Mezquitillo (Chapeteado),Mezquitillo Chapeteado,7,7,Clarificaci¢n de Patente
+SINALOA,Culiac n,Ejido Mezquitillo (La Curva),Ejido Mezquitillo La Curva,8,5,Clarificaci¢n de Patente
+SINALOA,Culiac n,Ejido Mezquitillo N£mero Dos,Ejido Mesquitillo N£mero Dos,10,10,Clarificaci¢n de Patente
+SINALOA,Culiac n,El Alhuate,El Alhuate,2,2,Clarificaci¢n de Patente
+SINALOA,Culiac n,El Lim¢n De Los Ramos,Lim¢n de los Ramos,20,20,Clarificaci¢n Convencional
+SINALOA,Culiac n,Obispo,Estaci¢n Obispo,40,40,Clarificaci¢n Convencional
+SINALOA,Culiac n,Secci¢n San Rafael (Las Casitas),San Rafael,3,3,Clarificaci¢n de Patente
+SINALOA,Culiac n,Soyatita,Soyatita,13,13,Clarificaci¢n de Patente
+SINALOA,El Fuerte,Agua de las arenas,Agua de las Arenas,5,4,Clarificaci¢n de Patente
+SINALOA,El Fuerte,Benito Ju rez (Vinateria),Vinateria,45,35,Clarificaci¢n de Patente
+SINALOA,El Fuerte,Charay,Charay,30,30,Clarificaci¢n de Patente
+SINALOA,El Fuerte,Constancia,Constancia,60,30,Clarificaci¢n de Patente
+SINALOA,El Fuerte,Dos de Abril,2 de Abril,20,20,Clarificaci¢n de Patente
+SINALOA,El Fuerte,El Fuerte,El Fuerte,150,120,Clarificaci¢n de Patente
+SINALOA,El Fuerte,El Parnaso,El Parnaso,1,1,Clarificaci¢n de Patente
+SINALOA,El Fuerte,"HIGUERAS DE LOS NATOCHES, LAS",HIGUERA DE LOS NATOCHES,20,20,Clarificaci¢n de Patente
+SINALOA,El Fuerte,Jahuara Primero (Los Leyva),Jahuara - Las Lineas,20,17,Clarificaci¢n de Patente
+SINALOA,El Fuerte,La Palma,La Palma,5,3,Clarificaci¢n de Patente
+SINALOA,El Fuerte,Mochicahui,Mochicahui,40,40,Clarificaci¢n de Patente
+SINALOA,El Fuerte,POCHOTAL,POCHOTAL,15,15,Clarificaci¢n de Patente
+SINALOA,El Fuerte,San Blas,San blas,30,30,Clarificaci¢n de Patente
+SINALOA,El Fuerte,San Jos‚ de Cahuinahua,Cahuinahua,2,2,Clarificaci¢n de Patente
+SINALOA,El Fuerte,Teroque Viejo,El Teroque Viejo,20,15,Clarificaci¢n de Patente
+SINALOA,Elota,Campo san Juan,San Juan,2,2,Clarificaci¢n de Patente
+SINALOA,Guasave,15 de Octubre,Ejido 15 de Octubre,2,0.63,Clarificaci¢n de Patente
+SINALOA,Guasave,Adolfo Ru¡z Cortines,Ru¡z Cortines,100,68.63,Clarificaci¢n Convencional
+SINALOA,Guasave,Bachoco,Bachoco,20,20,Clarificaci¢n de Patente
+SINALOA,Guasave,Campo 38,Campo 38,2,2,Clarificaci¢n de Patente
+SINALOA,Guasave,Campo El Tajito,El Tajito,20,20,Clarificaci¢n Convencional
+SINALOA,Guasave,Chino de los L¢pez,Chino de Los L¢pez,2,2,Clarificaci¢n de Patente
+SINALOA,Guasave,"DORADO NO. 2, EL",El Dorado 2,2,2,Clarificaci¢n de Patente
+SINALOA,Guasave,Ejido Chorohui,Chorohui,2,2,Clarificaci¢n de Patente
+SINALOA,Guasave,Ejido El Tecomate,Ejido Tecomate,5,3,Clarificaci¢n de Patente
+SINALOA,Guasave,Ejido Treinta y Ocho (Ejido Treinta y Ochito),Campo Treinta y Ochito,13,10,Clarificaci¢n de Patente
+SINALOA,Guasave,El Huitussi,Huitussi,40,40,Clarificaci¢n Convencional
+SINALOA,Guasave,El Pochote,El Pochote,2,2,Clarificaci¢n de Patente
+SINALOA,Guasave,El Progreso,El Progreso,30,20,Clarificaci¢n de Patente
+SINALOA,Guasave,Gabriel Leyva Solano (Benito Ju rez),Benito Ju rez,75,75,Clarificaci¢n Convencional
+SINALOA,Guasave,Gabriel Leyva Solano (Benito Ju rez),Gabriel Leyva Solano,100,73,Clarificaci¢n de Patente
+SINALOA,Guasave,Guasave,Guasave,500,125,Clarificaci¢n de Patente
+SINALOA,Guasave,"HORNOS NUMERO DOS, LOS",Los hornos n£mero 2,5,5,Clarificaci¢n de Patente
+SINALOA,Guasave,Javier Rojo G¢mez,Rojo G¢mez,40,30,Clarificaci¢n Convencional
+SINALOA,Guasave,Juan Jos‚ R¡os,Juan Jos‚ R¡os,230,190,Clarificaci¢n Convencional
+SINALOA,Guasave,La Brecha,La Brecha,30,20,Clarificaci¢n de Patente
+SINALOA,Guasave,La Pichihuila,La Pichigila,5,5,Clarificaci¢n de Patente
+SINALOA,Guasave,Las Ca¤adas N£mero Uno,Ejido Las Ca¤adas,5,5,Clarificaci¢n de Patente
+SINALOA,Guasave,Las Colonias (Colonia µngel Flores),Ejido Las Colonias,5,5,Clarificaci¢n de Patente
+SINALOA,Guasave,Las Culebras,Las Culebras - Las Flores,5,4,Clarificaci¢n de Patente
+SINALOA,Guasave,Las Quemazones,Las Quemazones,10,10,Clarificaci¢n de Patente
+SINALOA,Guasave,Miguel Alem n,Miguel Alem n,40,40,Clarificaci¢n Convencional
+SINALOA,Guasave,"PITAHAYITAS, LAS",Las Pitahayitas,5,5,Clarificaci¢n de Patente
+SINALOA,Guasave,SAN PASCUAL,San Pascual,2,2,Clarificaci¢n de Patente
+SINALOA,Guasave,San Rafael (General Miguel Valle D valos),San Rafael,40,30,Clarificaci¢n Convencional
+SINALOA,Guasave,Valle de Huyaqui (Los Solares),Valle de Huyaqui,2,2,Clarificaci¢n de Patente
+SINALOA,Mazatl n,Mazatl n,Los Horcones,1750,1950,Clarificaci¢n Convencional
+SINALOA,Mocorito,Guamuchilera Segunda,La Guamuchilera,50,50,Clarificaci¢n Convencional
+SINALOA,Mocorito,Melchor Ocampo,Melchor Ocampo,25,25,Clarificaci¢n Convencional
+SINALOA,Mocorito,Potrero de los S nchez (Estaci¢n Techa),Potrero de Los S nchez,20,14,Clarificaci¢n de Patente
+SINALOA,Mocorito,Zapotillo,Zapotillo,5,3,Clarificaci¢n de Patente
+SINALOA,Navolato,Constituyentes de Sinaloa,Constituyentes,30,25,Clarificaci¢n Convencional
+SINALOA,Navolato,Juan Aldama (El Tigre),El Tigre,40,30,Clarificaci¢n de Patente
+SINALOA,Salvador Alvarado,"BATALLON DE LOS MONTOYA, EL",Batall¢n de los Montoya,5,5,Clarificaci¢n de Patente
+SINALOA,Salvador Alvarado,CAITIME,Caitime,10,10,Clarificaci¢n de Patente
+SINALOA,Salvador Alvarado,CERRO BOLA,Cerro Bola,2,2,Clarificaci¢n de Patente
+SINALOA,Salvador Alvarado,Guamuchil,Guamuchil,300,100,Clarificaci¢n Convencional
+SINALOA,Salvador Alvarado,Gustavo D¡az Ordaz,Gustavo D¡az Ordaz,2,2,Clarificaci¢n de Patente
+SINALOA,Salvador Alvarado,TORO MANCHADO,Toro Manchado,2,2,Clarificaci¢n de Patente
+SINALOA,Sinaloa,Batamote,Ejido Batamote,40,40,Clarificaci¢n Convencional
+SINALOA,Sinaloa,Ru¡z Cortines No. 1,A. Ru¡z Cortinez No. 1,10,10,Clarificaci¢n de Patente
+SINALOA,Sinaloa,Ru¡z Cortines N£mero Tres,A. Ru¡z Cortinez No. 3,20,20,Clarificaci¢n Convencional
+SINALOA,Sinaloa,Tobobampo,Jos‚ Mar¡a Morelos - Tobobampo,10,10,Clarificaci¢n Convencional
+SONORA,Cajeme,Antonio Rosales,Antonio Rosales,15,9.14,Clarificaci¢n Convencional
+SONORA,Cajeme,Ciudad Obreg¢n,Cd. Obreg¢n (Col. Villa Bonita),120,63.87,Clarificaci¢n Convencional
+SONORA,Cajeme,Ciudad Obreg¢n,Cd. Obreg¢n I,600,329.2,Clarificaci¢n Convencional
+SONORA,Cajeme,Ciudad Obreg¢n,Cd. Obreg¢n II,600,329.2,Clarificaci¢n Convencional
+SONORA,Cajeme,Ciudad Obreg¢n,Cd. Obreg¢n III,600,460.32,Clarificaci¢n Convencional
+SONORA,Cajeme,Ciudad Obreg¢n,Cd. Obreg¢n IV,600,460.32,Clarificaci¢n Convencional
+SONORA,Cajeme,Colonia Allende (El Dieciocho),Col. Allende,26.83,13.06,Clarificaci¢n Convencional
+SONORA,Cajeme,KILOMETRO NUEVE (EL PUEBLITO),KILOMETRO 9,10,3.9,Clarificaci¢n Convencional
+SONORA,Cajeme,Los Hornos,Hornos,11,5.01,Clarificaci¢n Convencional
+SONORA,Cajeme,Providencia,Providencia,18.36,2.95,Clarificaci¢n Convencional
+SONORA,Hermosillo,Hermosillo,Hermosillo II,600,380.85,Clarificaci¢n Convencional
+SONORA,Hermosillo,Hermosillo,Piedra Bola,1500,1060.7,Clarificaci¢n Convencional
+SONORA,Huatabampo,Agiabampo No. Dos (El Campito),Agiabampo II,3,0.91,Clarificaci¢n Convencional
+SONORA,Huatabampo,Agiabampo Uno,Agiabampo I,20,6.56,Clarificaci¢n Convencional
+SONORA,Huatabampo,Huatabampo,Huatabampo I,50,2,Clarificaci¢n Convencional
+SONORA,Huatabampo,Juan de la Barrera,Juan de la Barrera,15,5.16,Clarificaci¢n Convencional
+SONORA,Huatabampo,Loma De Etchoropo,Etchoropo,26,8.06,Clarificaci¢n Convencional
+SONORA,Huatabampo,Mochibampo,Mochibampo I,60,12.63,Clarificaci¢n Convencional
+SONORA,Huatabampo,Mochibampo,Mochibampo II,15,1.08,Clarificaci¢n Convencional
+SONORA,Huatabampo,Moroncarit,Lomas de Moroncarit,3,0.47,Clarificaci¢n Convencional
+TABASCO,Balanc n,Balanc n,Balanc n,100,85,Clarificaci¢n Convencional
+TABASCO,C rdenas,C rdenas,CARDENAS,500,467,Clarificaci¢n Convencional
+TABASCO,Centla,Chichicastle 1ra. Secci¢n,Chichicastle 1ra. Secci¢n,7.5,7.2,Clarificaci¢n de Patente
+TABASCO,Centla,Chilapa Margen Izquierda 1ra. Secci¢n,Chilapa,125,125,Clarificaci¢n Convencional
+TABASCO,Centla,Frontera,FRONTERA,100,44.4,Clarificaci¢n Convencional
+TABASCO,Centla,QUINTIN ARAUZ,Quintin Arauz,10,9,Clarificaci¢n de Patente
+TABASCO,Centro,Acachapan y Colmena 3ra. Secci¢n,Acachapan y colmena tercera s ,10,10,Clarificaci¢n Convencional
+TABASCO,Centro,Alvarado Guardacosta 2da. Secci¢n,Alvarado Guardacosta,10,10,Clarificaci¢n Convencional
+TABASCO,Centro,AZTLAN 1 RA. SECCION,AZTLAN PRIMERA. SECCION,5,5,Clarificaci¢n de Patente
+TABASCO,Centro,Aztl n 2da. Secci¢n,Aztl n 2da Secci¢n,5,5,Clarificaci¢n de Patente
+TABASCO,Centro,Aztl n 3ra. Secci¢n (Corcho y Chilapilla),Aztl n 3ra Secci¢n,5,5,Clarificaci¢n de Patente
+TABASCO,Centro,Aztl n 5ta. Secci¢n (Palomillal),Aztl n 5ta. Secc. (Palomillal),5,5,Clarificaci¢n de Patente
+TABASCO,Centro,Buena Vista R¡o Nuevo 1ra. Secci¢n,Isla II,250,250,Clarificaci¢n Convencional
+TABASCO,Centro,Coronel Traconis (El Zapote 2 Da. Seccion),ALTOZANO,12,12,Clarificaci¢n Convencional
+TABASCO,Centro,Corregidora Ort¡z 3ra. Secci¢n (San Pedrito),La Isla ,250,250,Clarificaci¢n Convencional
+TABASCO,Centro,Dos Montes,Dos Montes,100,75,Clarificaci¢n Convencional
+TABASCO,Centro,Emiliano Zapata,Rancher¡a Emiliano Zapata,1000,850,Clarificaci¢n Convencional
+TABASCO,Centro,Ismate y Chilapilla 1ra. Secci¢n,Ismate y Chilapilla,10,10,Clarificaci¢n de Patente
+TABASCO,Centro,Parrilla 1ra. Secci¢n,Parrilla,500,450,Clarificaci¢n Convencional
+TABASCO,Centro,Plutarco El¡as Calles (La Majahua),Majahua,30,30,Clarificaci¢n Convencional
+TABASCO,Centro,Pueblo nuevo de Las ra¡ces,Pueblo Nuevo,50,50,Clarificaci¢n Convencional
+TABASCO,Centro,Villahermosa,Chilapa,40,40,Clarificaci¢n Convencional
+TABASCO,Centro,Villahermosa,Gaviotas I,40,40,Clarificaci¢n Convencional
+TABASCO,Centro,Villahermosa,Gaviotas II,250,150,Clarificaci¢n Convencional
+TABASCO,Centro,Villahermosa,Villahermosa,2000,2000,Clarificaci¢n Convencional
+TABASCO,Cunduac n,Cunduac n,Cunduac n,100,88.9,Clarificaci¢n Convencional
+TABASCO,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,200,156.3,Clarificaci¢n Convencional
+TABASCO,Huimanguillo,"FLORES, LAS (COLONIA LAS FLORES)",Huimanguillo,125,123.2,Clarificaci¢n Convencional
+TABASCO,Jalapa,Clavo de la Victoria (La Uni¢n),LA UNION,5,3.9,Clarificaci¢n de Patente
+TABASCO,Jalapa,Jalapa,Jalapa,50,48,Clarificaci¢n Convencional
+TABASCO,Jonuta,Jonuta,Jonuta,50,50,Clarificaci¢n Convencional
+TABASCO,Macuspana,El Bayo 1ra. Secci¢n (Granada),EL BAYO CD PEMEX,150,150,Clarificaci¢n Convencional
+TABASCO,Macuspana,Macuspana,Macuspana,240,200,Clarificaci¢n de Patente
+TABASCO,Nacajuca,Arroyo,EL MANGO I,500,500,Clarificaci¢n Convencional
+TABASCO,Nacajuca,Nacajuca,EL MANGO II,1000,1000,Clarificaci¢n de Patente
+TABASCO,Nacajuca,Oxiacaque,Oxiacaque,60,48.7,Clarificaci¢n de Patente
+TABASCO,Tacotalpa,Tacotalpa,Oxolot n,30,16.7,Clarificaci¢n de Patente
+TABASCO,Tacotalpa,Tacotalpa,Tacotalpa,160,77.5,Clarificaci¢n de Patente
+TABASCO,Tacotalpa,TAPIJULAPA,TAPIJULAPA,50,48.1,Clarificaci¢n Convencional
+TABASCO,Teapa,Teapa,Teapa,160,147,Clarificaci¢n Convencional
+TABASCO,Tenosique,Boca del Cerro,Boca del Cerro,5,4.8,Clarificaci¢n de Patente
+TABASCO,Tenosique,Estapilla,Estapilla,10,8.2,Clarificaci¢n de Patente
+TABASCO,Tenosique,Tenosique de Pino Su rez,Tenosique,300,300,Clarificaci¢n Convencional
+TAMAULIPAS,Altamira,Altamira,API ALTAMIRA,15,10,Filtraci¢n Directa
+TAMAULIPAS,Altamira,Altamira,Duport,500,450,Clarificaci¢n Convencional
+TAMAULIPAS,Altamira,Altamira,HIDALGO,100,90,Clarificaci¢n Convencional
+TAMAULIPAS,Altamira,Cuauht‚moc,Esteros - Cuauht‚moc,80,50,Clarificaci¢n Convencional
+TAMAULIPAS,Altamira,Ricardo Flores Magon,RICARDO FLORES MAGON,10,5,Filtraci¢n Directa
+TAMAULIPAS,Altamira,Tres de Mayo (Mata Negra),3 DE MAYO,15,20,Filtraci¢n Directa
+TAMAULIPAS,Camargo,Ciudad Camargo,Cd. Camargo,40,40,Clarificaci¢n Convencional
+TAMAULIPAS,Camargo,L¢pez y Nuevo Cadillo,Nuevo Cadillo,1,1,Clarificaci¢n de Patente
+TAMAULIPAS,Camargo,Los Comales,Comales,20,15,Clarificaci¢n de Patente
+TAMAULIPAS,Ciudad Madero,Ciudad Madero,Alta Vista (Tampico - Madero),1200,1800,Clarificaci¢n Convencional
+TAMAULIPAS,Ciudad Madero,Ciudad Madero,La Puerta,1000,950,Clarificaci¢n Convencional
+TAMAULIPAS,El Mante,Ciudad Mante,Planta No. 1,130,120,Clarificaci¢n Convencional
+TAMAULIPAS,El Mante,Ciudad Mante,Planta No.2,250,200,Clarificaci¢n Convencional
+TAMAULIPAS,El Mante,El Camotero Dos (Camotero),Camotero,35,35,Filtraci¢n Directa
+TAMAULIPAS,El Mante,El Limon,PLANTA LIMàN - ALTAMIRANO,40,35,Clarificaci¢n Convencional
+TAMAULIPAS,G¢mez Far¡as,Guadalupe Victoria,Guadalupe Victoria,3,3,Clarificaci¢n de Patente
+TAMAULIPAS,G¢mez Far¡as,La Tasque¤a,LA TAXQUE¥A,2,2,Clarificaci¢n de Patente
+TAMAULIPAS,Gonz lez,Adolfo Ru¡z Cortines,Adolfo Ru¡z Cortines,6,6,Filtraci¢n Directa
+TAMAULIPAS,Gonz lez,Emiliano Zapata,Emiliano Zapata,1,1,Filtraci¢n Directa
+TAMAULIPAS,Gonz lez,Francisco I. Madero Dos,Francisco I. Madero,12,12,Filtraci¢n Directa
+TAMAULIPAS,Gonz lez,Graciano S nchez,Graciano S nchez,27,27,Filtraci¢n Directa
+TAMAULIPAS,Gonz lez,Lopez Ray¢n,L¢pez Ray¢n,27,27,Filtraci¢n Directa
+TAMAULIPAS,Guerrero,Nueva Ciudad Guerrero,Guerrero,50,37,Clarificaci¢n Convencional
+TAMAULIPAS,Gustavo D¡az Ordaz,Ciudad Gustavo D¡az Ordaz,D¡az Ordaz,100,61,Clarificaci¢n Convencional
+TAMAULIPAS,Matamoros,Heroica Matamoros,Potabilizadora I,1200,800,Otro
+TAMAULIPAS,Matamoros,Heroica Matamoros,Potabilizadora II,1400,900,Clarificaci¢n Convencional
+TAMAULIPAS,Matamoros,Heroica Matamoros,Potabilizadora paquete I,100,100,Clarificaci¢n Convencional
+TAMAULIPAS,Matamoros,Heroica Matamoros,Potabilizadora paquete II,100,100,Clarificaci¢n Convencional
+TAMAULIPAS,Matamoros,Rancho Viejo,Rancho Viejo,250,237,Clarificaci¢n Convencional
+TAMAULIPAS,Matamoros,"REFUGIO, EL",EL REFUGIO,10,10,Clarificaci¢n Convencional
+TAMAULIPAS,Mier,Mier,Mier,30,30,Clarificaci¢n Convencional
+TAMAULIPAS,Miguel Alem n,Ciudad Miguel Alem n,Miguel Alem n,200,157,Clarificaci¢n Convencional
+TAMAULIPAS,Miguel Alem n,Los Guerra,Los Guerra,100,40,Clarificaci¢n Convencional
+TAMAULIPAS,Nuevo Laredo,Nuevo Laredo,PLANTA CENTRO,2000,1650,Clarificaci¢n Convencional
+TAMAULIPAS,Nuevo Laredo,Nuevo Laredo,Planta NORTE,200,155,Clarificaci¢n Convencional
+TAMAULIPAS,Nuevo Laredo,Nuevo Laredo,Sur - Oriente,600,600,Clarificaci¢n Convencional
+TAMAULIPAS,Reynosa,"CAVAZOS, LOS",Cavazos,10,8,Clarificaci¢n de Patente
+TAMAULIPAS,Reynosa,Reynosa,BENITO JUAREZ,750,700,Clarificaci¢n Convencional
+TAMAULIPAS,Reynosa,Reynosa,PASTOR LOZANO (LOMA LINDA),1500,1800,Clarificaci¢n Convencional
+TAMAULIPAS,Reynosa,Reynosa,Rancho Grande,250,180,Clarificaci¢n de Patente
+TAMAULIPAS,R¡o Bravo,Buenavista (Charco Azul),Buenavista,1,1,Clarificaci¢n de Patente
+TAMAULIPAS,R¡o Bravo,C ndido Aguilar,Plan del Alaz n,30,30,Clarificaci¢n de Patente
+TAMAULIPAS,R¡o Bravo,Ciudad R¡o Bravo,R¡o Bravo,650,550,Clarificaci¢n Convencional
+TAMAULIPAS,R¡o Bravo,Emilio Portes Gil,Portes Gil,5,5,Clarificaci¢n de Patente
+TAMAULIPAS,R¡o Bravo,La Posta,La Posta,1,1,Osmosis Inversa
+TAMAULIPAS,R¡o Bravo,SANTA APOLONIA,SANTA APOLONIA,5,5,Clarificaci¢n de Patente
+TAMAULIPAS,Soto La Marina,La Pesca,La Pesca,20,15,Osmosis Inversa
+TAMAULIPAS,Soto La Marina,Soto La Marina,Soto La Marina,40,40,Clarificaci¢n Convencional
+TAMAULIPAS,Valle Hermoso,Anahuac,ANAHUAC,25,25,Clarificaci¢n Convencional
+TAMAULIPAS,Valle Hermoso,MAGUEYES (B-120 ENTRE VALLE HERMOSO Y S 85),MAGUEYES,10,10,Ablandamiento
+TAMAULIPAS,Valle Hermoso,"Realito, El",EL REALITO,30,30,Clarificaci¢n Convencional
+TAMAULIPAS,Valle Hermoso,Valle Hermoso,Valle Hermoso,240,200,Clarificaci¢n Convencional
+TAMAULIPAS,Victoria,Ciudad Victoria,Ciudad Victoria,1000,900,Filtraci¢n Directa
+TAMAULIPAS,Xicot‚ncatl,Emiliano Zapata,Emiliano Zapata,5,5,Clarificaci¢n de Patente
+TAMAULIPAS,Xicot‚ncatl,La Azteca,El Azteca,2,2,Clarificaci¢n de Patente
+TAMAULIPAS,Xicot‚ncatl,Narciso Mendoza Uno,NARCISO MENDOZA,3,2,Clarificaci¢n de Patente
+TAMAULIPAS,Xicot‚ncatl,Xicot‚ncatl,Xicot‚ncatl,80,120,Clarificaci¢n Convencional
+TLAXCALA,Atlzayanca,Loma de Junguito,Loma de Junguito,1,0.1,Filtraci¢n Directa
+TLAXCALA,Chiautempan,San Pedro Xochiteotla,San Pedro Xochiteotla,12,2,Filtraci¢n Directa
+TLAXCALA,Panotla,Panotla,Panotla,20,2,Filtraci¢n Directa
+TLAXCALA,Panotla,SANTA CATALINA APATLAHCO,SANTA CATALINA APATLAHCO,3.5,3.5,Filtraci¢n Directa
+TLAXCALA,Terrenate,Colonia el Capulin,El Capulin,2,0.83,Filtraci¢n Directa
+TLAXCALA,Tlaxco,Santa Mar¡a Zotoluca,Santa Mar¡a Zotoluca,2,0.5,Filtraci¢n Directa
+TLAXCALA,Totolac,La Candelaria Teotlalpan,La Candelaria Teotlalpan,5,2.4,Filtraci¢n Directa
+TLAXCALA,Totolac,San Francisco Ocotelulco,San Francisco Ocotelulco,5,2.2,Filtraci¢n Directa
+TLAXCALA,Totolac,Santiago Tepeticpac,Santiago Tepeticpac,5,2.9,Filtraci¢n Directa
+VERACRUZ-LLAVE,Banderilla,Banderilla,La Martinica,50,50,Ablandamiento
+VERACRUZ-LLAVE,Coatzacoalcos,Coatzacoalcos,Yuribia,2000,400,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,Coatzintla,Coatzintla,Potabilizadora de Coatzintla,200,200,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,Juan Rodriguez Clara,Juan Rodriguez Clara,Juan Rodr¡guez Clara,50,50,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,Medell¡n,El Tejar,Tejar I,350,220,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,Medell¡n,El Tejar,Tejar II,1500,1150,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,Orizaba,Orizaba,Citlali,300,270,Ablandamiento
+VERACRUZ-LLAVE,P nuco,P nuco,Aquiles Serd n,10,10,Filtraci¢n Directa
+VERACRUZ-LLAVE,P nuco,P nuco,La Tortuga,10,10,Filtraci¢n Directa
+VERACRUZ-LLAVE,P nuco,P nuco,P nuco,200,200,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,P nuco,P nuco,Pujal Coy,50,50,Filtraci¢n Directa
+VERACRUZ-LLAVE,Poza Rica de hidalgo,Poza Rica de Hidalgo,Poza Rica,1325,625,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,Sayula de Alem n,Sayula De Alem n,Sayula de Alem n,25,25,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,Teocelo,Teocelo,Teocelo,40,40,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,Tlacotalpan,Tlacotalpan,Potabilizadora de Tlacotalpan,50,50,Otro
+VERACRUZ-LLAVE,Tuxpan,T£xpam de Rodr¡guez Cano,Tuxpan,360,352,Clarificaci¢n Convencional
+VERACRUZ-LLAVE,Xalapa,Xalapa-Enr¡quez,Xalapa,1060,1025,Clarificaci¢n Convencional
+ZACATECAS,Apozol,Colonia Ju rez,Colonia Ju rez,0.07,0.07,Osmosis Inversa
+ZACATECAS,Apozol,San Miguel (Atotonilco),San Miguel de Atotonilco,0.07,0.07,Osmosis Inversa
+ZACATECAS,Apulco,Apulco,Planta Apulco,0.23,0.23,Osmosis Inversa
+ZACATECAS,Apulco,La Chave¤a,"LA CHAVE¥A,ARROYO HONDO.",0.07,0.07,Osmosis Inversa
+ZACATECAS,Apulco,Pastoria,Pastoria ,0.07,0.07,Osmosis Inversa
+ZACATECAS,Apulco,Tenayuca,TENAYUCA,0.07,0.07,Osmosis Inversa
+ZACATECAS,Calera,Ramon Lopez Velarde (Toribio),Ramon Lopez Velarde (Turibio),0.23,0.23,Osmosis Inversa
+ZACATECAS,Ca¤itas de Felipe Pescador,Ca¤itas de Felipe Pescador,Ca¤itas de Felipe Pescador,0.23,0.23,Osmosis Inversa
+ZACATECAS,Ca¤itas de Felipe Pescador,Enrique Estrada,Enrique Estrada,0.07,0.07,Osmosis Inversa
+ZACATECAS,Concepci¢n del Oro,Ci‚nega de Rocamontes,Ci‚nega de Rocamontes,0.07,0.07,Osmosis Inversa
+ZACATECAS,Concepci¢n del Oro,El Durazno,Planta El Durazno,0.07,0.07,Osmosis Inversa
+ZACATECAS,Concepci¢n del Oro,Las Huertas,Las Huertas,0.07,0.07,Osmosis Inversa
+ZACATECAS,El Salvador,El Salvador,El Salvador,0.07,0.07,Osmosis Inversa
+ZACATECAS,El Salvador,General Gertrudis S nchez (Santa Rita),Gertrudis S nchez,0.07,0.07,Osmosis Inversa
+ZACATECAS,El Salvador,Tanque Nuevo,Tanque Nuevo,0.07,0.07,Osmosis Inversa
+ZACATECAS,Fresnillo,Francisco Garcia Salinas (La Larga),FRANCISCO GARCIA SALINAS,0.07,0.07,Osmosis Inversa
+ZACATECAS,Fresnillo,Mendoza,Mendoza,0.07,0.07,Osmosis Inversa
+ZACATECAS,Fresnillo,àrganos,Organos,0.07,0.07,Remoci¢n de Fierro - Manganeso
+ZACATECAS,Fresnillo,San Jos‚ del Quelite,San Jose del Quelite,0.07,0.07,Osmosis Inversa
+ZACATECAS,Genaro Codina,Las Tinajas,Las Tinajas,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,Cieneguilla (Noria y Cieneguilla),Cieneguilla,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,Colonia Benito Ju rez (El Tulillo),Planta El Tulillo,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,Colonia Chapultepec,Colonia Chapultepec,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,El Sauz,El Sauz,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,La Estanzuela,La Estanzuela,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,Luis Moya,Luis Moya ,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,Miguel Hidalgo,Miguel Hidalgo,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,Or n,Or n,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,Pacheco (Estaci¢n Pacheco),Estaci¢n Pacheco,0.07,0.07,Osmosis Inversa
+ZACATECAS,General Francisco R. Murgu¡a,San Lucas,San Lucas,0.07,0.07,Osmosis Inversa
+ZACATECAS,General P nfilo Natera,General P nfilo Natera,P nfilo Natera,0.23,0.23,Osmosis Inversa
+ZACATECAS,Guadalupe,Santa M¢nica,Planta Santa M¢nica,0.07,0.07,Osmosis Inversa
+ZACATECAS,Huanusco,Huanusco,Huanusco,0.19,0.19,Osmosis Inversa
+ZACATECAS,Jalpa,El Caracol,El Caracol,0.07,0.07,Osmosis Inversa
+ZACATECAS,Jerez,Jerez de Garc¡a Salinas,Jerez de G. S.,0.39,0.39,Osmosis Inversa
+ZACATECAS,Luis Moya,Los Pocitos,Los Pocitos,0.07,0.07,Osmosis Inversa
+ZACATECAS,Luis Moya,Luis Moya,Luis Moya,0.23,0.23,Osmosis Inversa
+ZACATECAS,Luis Moya,Noria de Molinos,Noria de Molinos,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Banderita Dos,Banderita II,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Bonanza,Bonanza,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Concepci¢n de la Norma,Concepci¢n de La Norma,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,El Cardito,Planta El Cardito,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Estaci¢n Camacho,Estaci¢n Camacho,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Estaci¢n Opal,Planta Opal,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Gru¤idora,Gru¤idora,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,La Palmilla,La Palmilla,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Majoma,Majoma,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Marianitas (Mariana Elias De Rodriguez),Marianitas,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Noria del Junco (El Junco),Planta El Junco,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Presa del Junco,Planta Presa del Junco,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,San El¡as de la Cardona,San El¡as de la Cardona,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,San Felipe Nuevo Mercurio (El Nuevo),San Felipe de Nuevo Mercurio,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,San Rafael (Jos‚ Mar¡a Morelos),San Rafael(Jose Maria Morelos),0.07,0.07,Ablandamiento
+ZACATECAS,Mazapil,Santa Rosa (San Francisco),SANTA ROSA,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Tampico (Nuevo Tampico),Nuevo Tampico,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mazapil,Terminal de Providencia (Terminal),Terminal,0.07,0.07,Osmosis Inversa
+ZACATECAS,Melchor Ocampo,El Cargadero,El Cargadero,0.07,0.07,Osmosis Inversa
+ZACATECAS,Melchor Ocampo,Matamoros,Matamoros,0.07,0.07,Osmosis Inversa
+ZACATECAS,Melchor Ocampo,Melchor Ocampo,Planta Melchor Ocampo,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mezquital del Oro,La Anona,Anona,0.07,0.07,Osmosis Inversa
+ZACATECAS,Mezquital del Oro,La Huerta Grande,Huerta Grande,0.07,0.07,Osmosis Inversa
+ZACATECAS,Moyahua de Estrada,Barranca del R¡o (El Potrero),Barranca del Rio (El Potrero),0.07,0.07,Osmosis Inversa
+ZACATECAS,Moyahua de Estrada,Mezquituta,Mezquituta,0.07,0.07,Ablandamiento
+ZACATECAS,Nochistlan de Mejia,El Molino,El Molino,0.07,0.07,Osmosis Inversa
+ZACATECAS,Noria de µngeles,Estaci¢n Genaro (Genaro),Estaci¢n Genaro,0.07,0.07,Osmosis Inversa
+ZACATECAS,Noria de µngeles,Maravillas,Maravillas,0.07,0.07,Osmosis Inversa
+ZACATECAS,Noria de µngeles,Noria de µngeles,Noria de Angeles,0.07,0.07,Ablandamiento
+ZACATECAS,Noria de µngeles,Playas del Refugio (Huertas de Maravillas),Playas del Refugio,0.07,0.07,Osmosis Inversa
+ZACATECAS,Ojocaliente,La Concepci¢n,La Concepci¢n,0.07,0.07,Osmosis Inversa
+ZACATECAS,Ojocaliente,Pozo de Jarillas,Pozo de Jarillas,0.07,0.07,Osmosis Inversa
+ZACATECAS,Ojocaliente,San Crist¢bal,San Crist¢bal,0.07,0.07,Osmosis Inversa
+ZACATECAS,Ojocaliente,Sauceda de Mulatos,SAUCEDA DE MULATOS,0.07,0.07,Osmosis Inversa
+ZACATECAS,Pinos,El Baj¡o (El Baj¡o de Manuelillo),El Bajio (El Bajide Manueli,0.07,0.07,Osmosis Inversa
+ZACATECAS,Pinos,El Bravo,El Bravo,0.2,0.2,Osmosis Inversa
+ZACATECAS,Pinos,Guadalupe de los Sauces,Guadalupe de Los Sauces,0.07,0.07,Osmosis Inversa
+ZACATECAS,Pinos,La Escondida (Cerrito del Calvario),La Escondida,0.07,0.07,Osmosis Inversa
+ZACATECAS,Pinos,San Juan de La Palma,San Juan de la Palma,0.07,0.07,Osmosis Inversa
+ZACATECAS,Pinos,Santa Elena,Santa Elena,0.07,0.07,Osmosis Inversa
+ZACATECAS,R¡o Grande,"Ignacio L¢pez Ray¢n (Los Delgado)
+",Ignacio Lopez Rayon (Los Delga,0.07,0.07,Osmosis Inversa
+ZACATECAS,R¡o Grande,La Florida,La Florida,0.07,0.07,Osmosis Inversa
+ZACATECAS,R¡o Grande,Las Piedras,Las Piedras,0.07,0.07,Osmosis Inversa
+ZACATECAS,R¡o Grande,Los Condes,Los Conde,0.07,0.07,Osmosis Inversa
+ZACATECAS,R¡o Grande,Los Ram¡rez,Planta Los Ram¡rez,0.07,0.07,Osmosis Inversa
+ZACATECAS,R¡o Grande,Tierra Blanca,Tierra Blanca,0.07,0.07,Osmosis Inversa
+ZACATECAS,Sain Alto,R¡o de Medina,Planta R¡o Medina,0.07,0.07,Osmosis Inversa
+ZACATECAS,Sombrerete,Alvaro Obreg¢n (Barajas),Planta Barajas,0.07,0.07,Osmosis Inversa
+ZACATECAS,Sombrerete,Charco Blanco,Charco Blanco,0.07,0.07,Osmosis Inversa
+ZACATECAS,Sombrerete,San Antonio El Arenal (San Antonio de T.),San Antonio El Arenal,0.07,0.07,Osmosis Inversa
+ZACATECAS,Tabasco,La Cantera,La Cantera,0.07,0.07,Osmosis Inversa
+ZACATECAS,Tabasco,Tabasco,Tabasco,0.23,0.23,Osmosis Inversa
+ZACATECAS,Tlaltenango de S nchez Rom n,Jes£s Mar¡a,JESéS MARÖA,0.07,0.07,Osmosis Inversa
+ZACATECAS,Tlaltenango de S nchez Rom n,Salazares,Salazares,0.07,0.07,Osmosis Inversa
+ZACATECAS,Trancoso,Los Insurgentes (La Puerta de Fierro),Los Insurgentes,0.07,0.07,Osmosis Inversa
+ZACATECAS,Valpara¡so,Corralitos,Corralitos,0.07,0.07,Filtraci¢n Lenta
+ZACATECAS,Valpara¡so,Paso de Huasamota,Paso de Huasamota,0.07,0.07,Osmosis Inversa
+ZACATECAS,Valpara¡so,San Pedro de la Sierra,San Pedro,0.07,0.07,Osmosis Inversa
+ZACATECAS,Valpara¡so,San Rafael de las Tablas,San Rafael de Las Tablas,0.07,0.07,Osmosis Inversa
+ZACATECAS,Valpara¡so,Valpara¡so,Valpara¡so,0.23,0.23,Osmosis Inversa
+ZACATECAS,Villa de Cos,Aldea de Codornices (Jes£s Mar¡a),Aldea de Codornices,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,Cervantes,Cervantes,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,Charquillos,Charquillos,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,Col. Alfonso Garzon Santiba¤ez (El Maleficio),Alfonso Garzon Santiba¤ez ,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,Efigenia,Planta Efigenia,0.07,0.07,Filtraci¢n Lenta
+ZACATECAS,Villa de Cos,El Rucio,Planta El Rucio,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,ESTANCIA LA COLORADA,Planta Estancia la Colorada,0.07,0.07,Ablandamiento
+ZACATECAS,Villa de Cos,Guadalupe de las Corrientes,Planta Las Corrientes,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,La Colorada (Estaci¢n La Colorada),Planta La Colorada,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,Noria del Burro,Noria Del Burro,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,Nueva Pastoria (Las Pe¤itas),NUEVA PASTORIA,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,Primero de Mayo (San Juan de Ulua),Primero de Mayo,0.1,0.1,Osmosis Inversa
+ZACATECAS,Villa de Cos,San Antonio de la Rosa (San Antonio),San Antonio de La Rosa,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa de Cos,Villa De Cos,Villa De Cos,0.23,0.23,Ablandamiento
+ZACATECAS,Villa Hidalgo,Cerro Prieto,Cerro Prieto,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villa Hidalgo,El Salitre,El Salitre,0.07,0.07,Osmosis Inversa
+ZACATECAS,Villanueva,Las Pilas,San Jose y Las Pilas,0.07,0.07,Osmosis Inversa
+ZACATECAS,Zacatecas,Rancho Nuevo,RANCHO NUEVO,0.07,0.07,Osmosis Inversa
+,,,,,,
+,,, 979 ," 151,267 "," 115,636 ",
+,,,No. de Plantas,,,
